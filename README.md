@@ -1,6 +1,6 @@
 # NewStar CTF 2022
 
-This repository is the archive of [NewStar CTF 2022](https://buuoj.cn/match/matches/146).
+This repository is the archive of [NewStar CTF 2022](https://newstar.wiki/guide/2022/).
 
 ## License
 
