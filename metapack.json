@@ -7,7 +7,7 @@
     "tags": ["签到"],
     "author": "Sias27",
     "attachments": [
-      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week1/ciphertext_w1.2.txt"
+      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-1/ciphertext.5582361f.txt"
     ],
     "services": [],
     "flag": "flag{bruteforce_is_useful_for_breaking_cipher}",
@@ -24,7 +24,7 @@
     "tags": ["签到"],
     "author": "Sias27",
     "attachments": [
-      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week1/ciphertext_w1.caeser.txt"
+      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-1/ciphertext.b000e386.txt"
     ],
     "services": [],
     "flag": "flag{historical_cipher_is_vulnerable}",
@@ -40,9 +40,7 @@
     "category": ["Week1", "Crypto"],
     "tags": ["签到"],
     "author": "Sias27",
-    "attachments": [
-      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week1/eazyxor.zip"
-    ],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-1/eazyxor.zip"],
     "services": [],
     "flag": "flag{x0r_i5_qu1t3_3azy}",
     "difficulty": 0,
@@ -57,7 +55,7 @@
     "category": ["Week1", "Crypto"],
     "tags": ["简单"],
     "author": "Sycamore",
-    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week1/chaos.py"],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-1/chaos.py"],
     "services": [],
     "flag": "flag{ii24nji9-8ckkpil1-5hiev3n6-1u24g07m}",
     "difficulty": 1,
@@ -75,9 +73,7 @@
     "category": ["Week1", "Crypto"],
     "tags": ["简单"],
     "author": "Dawn_whisper",
-    "attachments": [
-      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week1/RSA_begin.zip"
-    ],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-1/RSA_begin.zip"],
     "services": [],
     "flag": "flag{W0w_U_ar3_re4L1y_g0Od_4t_m4th_4nD_RSA!!}",
     "difficulty": 1,
@@ -92,7 +88,7 @@
     "category": ["Week1", "Misc"],
     "tags": ["签到"],
     "author": "Komplize",
-    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week1/Eye.jpg"],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-1/Eye.jpg"],
     "services": [],
     "flag": "flag{L0ok_m3_1n_my_ey3s}",
     "difficulty": 0,
@@ -108,7 +104,7 @@
     "tags": ["签到"],
     "author": "qsdz",
     "attachments": [
-      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week1/Yesec_no_drumsticks_1.zip"
+      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-1/Yesec_no_drumsticks_1.zip"
     ],
     "services": [],
     "flag": "flag{Yesec_1s_lsb}",
@@ -125,7 +121,7 @@
     "category": ["Week1", "Misc"],
     "tags": ["简单"],
     "author": "Coldwinds",
-    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week1/audio.zip"],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-1/audio.zip"],
     "services": [],
     "flag": "flag{SSTV_and_R0b0t36}",
     "difficulty": 1,
@@ -141,9 +137,7 @@
     "category": ["Week1", "Misc"],
     "tags": ["简单"],
     "author": "woodwhale",
-    "attachments": [
-      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week1/EzSnake.jar"
-    ],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-1/EzSnake.jar"],
     "services": [],
     "flag": "flag{Y0u_4re_0ne_oNe_0nE_st4R}",
     "difficulty": 1,
@@ -160,7 +154,7 @@
     "tags": ["简单"],
     "author": "qsdz",
     "attachments": [
-      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week1/qsdz_girlfriend_1.zip"
+      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-1/qsdzs_girlfriend_1.zip"
     ],
     "services": [],
     "flag": "flag{Hikari_20031201}",
@@ -182,9 +176,7 @@
     "category": ["Week1", "Pwn"],
     "tags": ["签到"],
     "author": "woodwhale",
-    "attachments": [
-      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week1/pwn_w1.calc"
-    ],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-1/pwn"],
     "services": [],
     "flag": null,
     "difficulty": 0,
@@ -200,7 +192,7 @@
     "tags": ["签到"],
     "author": "a2ur2",
     "attachments": [
-      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week1/fallw1nd_gift"
+      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-1/fallw1nds_gift.zip"
     ],
     "services": [],
     "flag": null,
@@ -217,9 +209,7 @@
     "category": ["Week1", "Pwn"],
     "tags": ["签到"],
     "author": "Nightu",
-    "attachments": [
-      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week1/ret2libc_56e9985.zip"
-    ],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-1/ret2libc.zip"],
     "services": [],
     "flag": null,
     "difficulty": 0,
@@ -236,7 +226,7 @@
     "tags": ["签到"],
     "author": "Nightu",
     "attachments": [
-      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week1/ret2shellcode_d3bd190.zip"
+      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-1/ret2shellcode.zip"
     ],
     "services": [],
     "flag": null,
@@ -253,9 +243,7 @@
     "category": ["Week1", "Pwn"],
     "tags": ["签到"],
     "author": "Nightu",
-    "attachments": [
-      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week1/ret2text_9e0bca8.zip"
-    ],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-1/ret2text.zip"],
     "services": [],
     "flag": null,
     "difficulty": 0,
@@ -271,9 +259,7 @@
     "category": ["Week1", "Reverse"],
     "tags": ["签到"],
     "author": "FallW1nd",
-    "attachments": [
-      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week1/app_w1.apk"
-    ],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-1/app.apk"],
     "services": [],
     "flag": "flag{Act1v1ty_!s_so00oo0o_Impor#an#}",
     "difficulty": 0,
@@ -288,7 +274,7 @@
     "category": ["Week1", "Reverse"],
     "tags": ["签到"],
     "author": "Gift1a",
-    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week1/Init_re"],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-1/Init_re"],
     "services": [],
     "flag": "flag{S0meth1ng_run_bef0re_main!}",
     "difficulty": 0,
@@ -304,9 +290,7 @@
     "category": ["Week1", "Reverse"],
     "tags": ["签到"],
     "author": "Gift1a",
-    "attachments": [
-      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week1/EasyRe.zip"
-    ],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-1/EasyRe.zip"],
     "services": [],
     "flag": "flag{Base64_1s_1nterestr1ng!!}",
     "difficulty": 0,
@@ -322,7 +306,7 @@
     "tags": ["签到"],
     "author": "FallW1nd",
     "attachments": [
-      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week1/Hello_Reversing.exe"
+      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-1/Hello_Reversing.exe"
     ],
     "services": [],
     "flag": "flag{h3llo_r3vers1ng_w0rld}",
@@ -335,7 +319,7 @@
     "category": ["Week1", "Reverse"],
     "tags": ["签到"],
     "author": "Gift1a",
-    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week1/pyre.exe"],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-1/pyre.exe"],
     "services": [],
     "flag": "flag{PYRE_1S_S0_FUN!!!}",
     "difficulty": 0,
@@ -429,7 +413,7 @@
     "tags": ["签到"],
     "author": "Dawn_whisper",
     "attachments": [
-      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week2/task_w2.prng.py"
+      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-2/task.3ea1c8de.py"
     ],
     "services": [],
     "flag": "flag{lcG_1s_s0_34sy}",
@@ -445,9 +429,7 @@
     "category": ["Week2", "Crypto"],
     "tags": ["签到"],
     "author": "Cata1yst",
-    "attachments": [
-      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week2/ezRabin.rar"
-    ],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-2/ezRabin.rar"],
     "services": [],
     "flag": "flag{R4bin_3ncrypti0n_with_3_mod_4_is_two_e4sy}",
     "difficulty": 0,
@@ -463,7 +445,7 @@
     "tags": ["签到"],
     "author": "Dawn_whisper",
     "attachments": [
-      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week2/task_w2.robot.py"
+      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-2/task.0fcc5f88.py"
     ],
     "services": [],
     "flag": "flag{c4Nn0t_D3crYpt_buT_r3p34t_Yes}",
@@ -479,9 +461,7 @@
     "category": ["Week2", "Crypto"],
     "tags": ["简单"],
     "author": "Sias27",
-    "attachments": [
-      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week2/affine.zip"
-    ],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-2/Affine.zip"],
     "services": [],
     "flag": "flag{Kn0wn_p1aint3xt_4ttack}",
     "difficulty": 1,
@@ -497,7 +477,7 @@
     "tags": ["简单"],
     "author": "",
     "attachments": [
-      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week2/unusal_base.zip"
+      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-2/unusual_base.zip"
     ],
     "services": [],
     "flag": "flag{a1ph4bet_c0u1d_be_d1ffi3r3nt}",
@@ -513,7 +493,7 @@
     "category": ["Week2", "Misc"],
     "tags": ["简单"],
     "author": "Coldwinds",
-    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week2/code.zip"],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-2/code.zip"],
     "services": [],
     "flag": "flag{Aztec_from_Age_0f_Empires}",
     "difficulty": 1,
@@ -528,9 +508,7 @@
     "category": ["Week2", "Misc"],
     "tags": ["简单"],
     "author": "Coldwinds",
-    "attachments": [
-      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week2/puzzle.zip"
-    ],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-2/puzzle.zip"],
     "services": [],
     "flag": "flag{Y0u_successfu11y_s01ved_the_puzz1e}",
     "difficulty": 1,
@@ -546,7 +524,7 @@
     "tags": ["简单"],
     "author": "qsdz",
     "attachments": [
-      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week2/qsdz_girlfriend_2.zip"
+      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-2/qsdzs_girlfriend_2.zip"
     ],
     "services": [],
     "flag": "flag{按理说这个点猪也该醒了}",
@@ -564,7 +542,7 @@
     "tags": ["简单"],
     "author": "qsdz",
     "attachments": [
-      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week2/Yesec_no_drumsticks_2.zip"
+      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-2/Yesec_no_drumsticks_2.zip"
     ],
     "services": [],
     "flag": "flag{Ingr3d1ent_0F_Yesec_i5_OOOOO}",
@@ -581,7 +559,7 @@
     "category": ["Week2", "Misc"],
     "tags": ["中等"],
     "author": "Coldwinds",
-    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week2/wave.zip"],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-2/wave.zip"],
     "services": [],
     "flag": "flag{0010001001100111}",
     "difficulty": 2,
@@ -597,7 +575,7 @@
     "tags": ["简单"],
     "author": "Niyah",
     "attachments": [
-      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week2/buffer_fly.zip"
+      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-2/buffer_fly.zip"
     ],
     "services": [],
     "flag": "flag{b3c0me_4_butt3rf1y}",
@@ -614,7 +592,7 @@
     "tags": ["简单"],
     "author": "Nightu",
     "attachments": [
-      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week2/shellcode-revenge_16f4b5e.zip"
+      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-2/shellcode_revenge.zip"
     ],
     "services": [],
     "flag": null,
@@ -631,7 +609,7 @@
     "category": ["Week2", "Pwn"],
     "tags": ["简单"],
     "author": "eeee",
-    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week2/uint"],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-2/uint"],
     "services": [],
     "flag": null,
     "difficulty": 1,
@@ -646,7 +624,9 @@
     "category": ["Week2", "Pwn"],
     "tags": ["中等"],
     "author": "Coldwinds",
-    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week2/pwn_w2"],
+    "attachments": [
+      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-2/attachment.zip"
+    ],
     "services": [],
     "flag": null,
     "difficulty": 2,
@@ -662,9 +642,7 @@
     "category": ["Week2", "Reverse"],
     "tags": ["简单"],
     "author": "Lu1u",
-    "attachments": [
-      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week2/task_be.exe"
-    ],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-2/task_be.exe"],
     "services": [],
     "flag": "flag{begin_and_end_re_and_you}",
     "difficulty": 1,
@@ -679,7 +657,7 @@
     "category": ["Week2", "Reverse"],
     "tags": ["简单"],
     "author": "Lu1u",
-    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week2/task_time"],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-2/task_time"],
     "services": [],
     "flag": "flag{D0nt_let_time_bo_so_cheap!}",
     "difficulty": 1,
@@ -694,9 +672,7 @@
     "category": ["Week2", "Reverse"],
     "tags": ["简单"],
     "author": "Xunflash",
-    "attachments": [
-      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week2/Likemyasp.exe"
-    ],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-2/Likemyasp.exe"],
     "services": [],
     "flag": "flag{x1hu@n_w0_4sp_ma??}",
     "difficulty": 1,
@@ -712,7 +688,7 @@
     "category": ["Week2", "Reverse"],
     "tags": ["简单"],
     "author": "FallW1nd",
-    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week2/Petals"],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-2/Petals"],
     "services": [],
     "flag": "flag{d780c9b2d2aa9d40010a753bc15770de}",
     "difficulty": 1,
@@ -728,7 +704,7 @@
     "tags": ["简单"],
     "author": "FallW1nd",
     "attachments": [
-      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week2/ur_so_naive.apk"
+      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-2/ur_so_naive.apk"
     ],
     "services": [],
     "flag": "flag{n@1ve_luv_2you#ouo}",
@@ -854,7 +830,9 @@
     "category": ["Week3", "Crypto"],
     "tags": ["简单"],
     "author": "Sias27",
-    "attachments": [],
+    "attachments": [
+      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-3/keyExchange.zip"
+    ],
     "services": [],
     "flag": "flag{d1ff1e_h311m4n_is_4_p13c3_0f_c4k3}",
     "difficulty": 1,
@@ -869,7 +847,9 @@
     "category": ["Week3", "Crypto"],
     "tags": ["简单"],
     "author": "Sias27",
-    "attachments": [],
+    "attachments": [
+      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-3/onetimepad.zip"
+    ],
     "services": [],
     "flag": "flag{frequency_analysis_could_be_useful#A6DC1D643A29}",
     "difficulty": 1,
@@ -884,7 +864,7 @@
     "category": ["Week3", "Crypto"],
     "tags": ["简单"],
     "author": "Sias27",
-    "attachments": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-3/shamir.zip"],
     "services": [],
     "flag": "flag{w0w_y0u_k0nw_sham1r_s3cret_5h4r1ng_4nd_1agrange_interpolation!!!}",
     "difficulty": 1,
@@ -899,7 +879,7 @@
     "category": ["Week3", "Crypto"],
     "tags": ["中等"],
     "author": "Sycamore",
-    "attachments": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-3/AES.zip"],
     "services": [],
     "flag": "flag{7h7gi3nl-ald4ssf8-eajfwm7t-rujquhmg}",
     "difficulty": 2,
@@ -914,7 +894,7 @@
     "category": ["Week3", "Misc"],
     "tags": ["签到"],
     "author": "烨",
-    "attachments": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-3/http.pcap"],
     "services": [],
     "flag": "flag{4f33649d030c6778426971b54dd72ece}",
     "difficulty": 0,
@@ -945,12 +925,12 @@
   },
   {
     "id": 58,
-    "name": "WebShell！",
+    "name": "WebShell!",
     "description": "溯源攻击者窃取的文件内容！他用了蚁剑诶？\n\nFLAG 格式为 `flag{WebShell密码_黑客获取的用户名_机密文件内容}`，例如 `flag{cmd_root_secret}`\n",
     "category": ["Week3", "Misc"],
     "tags": ["简单"],
     "author": "烨",
-    "attachments": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-3/webshell.pcap"],
     "services": [],
     "flag": "flag{n3wst4r_www-data_Y0UAr3G00D}",
     "difficulty": 1,
@@ -965,7 +945,7 @@
     "category": ["Week3", "Misc"],
     "tags": ["简单"],
     "author": "qsdz",
-    "attachments": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-3/YND31_1.zip"],
     "services": [],
     "flag": "flag{I_r3ally_Want_tO_be_1I1I1}",
     "difficulty": 1,
@@ -987,7 +967,7 @@
     "category": ["Week3", "Misc"],
     "tags": ["中等"],
     "author": "Sycamore",
-    "attachments": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-3/image.zip"],
     "services": [],
     "flag": "flag{easy_chaos_encrypt!!!_776e6d30}",
     "difficulty": 2,
@@ -1005,7 +985,7 @@
     "category": ["Week3", "Pwn"],
     "tags": ["简单"],
     "author": "Coldwinds",
-    "attachments": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-3/pwn"],
     "services": [],
     "flag": null,
     "difficulty": 1,
@@ -1037,7 +1017,7 @@
     "category": ["Week3", "Pwn"],
     "tags": ["简单"],
     "author": "woodwhale",
-    "attachments": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-3/sheep_a_flag"],
     "services": [],
     "flag": null,
     "difficulty": 1,
@@ -1069,7 +1049,9 @@
     "category": ["Week3", "Reverse"],
     "tags": ["简单"],
     "author": "Xunflash",
-    "attachments": [],
+    "attachments": [
+      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-3/Sliders_Labyrinth.exe"
+    ],
     "services": [],
     "flag": "flag{f71516bdf07abd7bc0668db9d6352364}",
     "difficulty": 1,
@@ -1084,7 +1066,7 @@
     "category": ["Week3", "Reverse"],
     "tags": ["简单"],
     "author": "Gift1a",
-    "attachments": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-3/Zzzzz3333.exe"],
     "services": [],
     "flag": "flag{Zzzz333_Is_Cool!!!}",
     "difficulty": 1,
@@ -1099,7 +1081,9 @@
     "category": ["Week3", "Reverse"],
     "tags": ["中等"],
     "author": "FallW1nd",
-    "attachments": [],
+    "attachments": [
+      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-3/Annnnnggrr.exe"
+    ],
     "services": [],
     "flag": "flag{umm_I_can't_calc_1t_@t_all}",
     "difficulty": 2,
@@ -1114,7 +1098,7 @@
     "category": ["Week3", "Reverse"],
     "tags": ["中等"],
     "author": "Xunflash",
-    "attachments": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-3/EzTea.exe"],
     "services": [],
     "flag": "flag{H0P3_U_L1k3_Th15_CUP_0f_TEa.}",
     "difficulty": 2,
@@ -1129,7 +1113,7 @@
     "category": ["Week3", "Reverse"],
     "tags": ["中等"],
     "author": "FallW1nd",
-    "attachments": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-3/funnyOTL_1"],
     "services": [],
     "flag": "flag{OTL_n0w_u_know_STL}",
     "difficulty": 2,
@@ -1237,7 +1221,9 @@
     "category": ["Week4", "Crypto"],
     "tags": ["简单"],
     "author": "Sias27",
-    "attachments": [],
+    "attachments": [
+      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/LCG_Revenge.zip"
+    ],
     "services": [],
     "flag": "flag{try_some_linear_algebra_technique}",
     "difficulty": 1,
@@ -1252,7 +1238,7 @@
     "category": ["Week4", "Crypto"],
     "tags": ["中等"],
     "author": "Sias27",
-    "attachments": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/ywyyh.zip"],
     "services": [],
     "flag": "flag{wow_wow_wow_you_solved_my_encryption}",
     "difficulty": 2,
@@ -1267,7 +1253,7 @@
     "category": ["Week4", "Crypto"],
     "tags": ["困难"],
     "author": "Sias27",
-    "attachments": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/dsgx.zip"],
     "services": [],
     "flag": "flag{a1g3br4ic_re1at1on_i5_us3ful}",
     "difficulty": 3,
@@ -1283,7 +1269,7 @@
     "category": ["Week4", "Misc"],
     "tags": ["简单"],
     "author": "Coldwinds",
-    "attachments": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/QRcode.zip"],
     "services": [],
     "flag": "flag{1_1ik3_p1aying_Min3craft}",
     "difficulty": 1,
@@ -1296,7 +1282,7 @@
     "category": ["Week4", "Misc"],
     "tags": ["简单"],
     "author": "烨",
-    "attachments": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/Godzilla.pcap"],
     "services": [],
     "flag": "flag{421eb7f1b8e4b3cf_Godzilla1sS000Int3rEstIng}",
     "difficulty": 1,
@@ -1311,7 +1297,7 @@
     "category": ["Week4", "Misc"],
     "tags": ["简单"],
     "author": "Coldwinds",
-    "attachments": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/strange.zip"],
     "services": [],
     "flag": "flag{PDF_1s_n0t_strang3}",
     "difficulty": 1,
@@ -1326,7 +1312,9 @@
     "category": ["Week4", "Misc"],
     "tags": ["简单"],
     "author": "qsdz",
-    "attachments": [],
+    "attachments": [
+      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/qsdzs_girlfriend_4.zip"
+    ],
     "services": [],
     "flag": "flag{Esol4ng_1s_es0}",
     "difficulty": 1,
@@ -1344,7 +1332,9 @@
     "category": ["Week4", "Misc"],
     "tags": ["中等"],
     "author": "qsdz",
-    "attachments": [],
+    "attachments": [
+      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/yellow_pictrue.png"
+    ],
     "services": [],
     "flag": "flag{Yesec_deCid3s_t0_ch4nge_7he_fate_of_the_world_against_the_odds}",
     "difficulty": 2,
@@ -1391,7 +1381,7 @@
     "category": ["Week4", "Pwn"],
     "tags": ["简单"],
     "author": "予柒",
-    "attachments": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/canary.zip"],
     "services": [],
     "flag": null,
     "difficulty": 1,
@@ -1407,7 +1397,9 @@
     "category": ["Week4", "Pwn"],
     "tags": ["中等"],
     "author": "Nightu",
-    "attachments": [],
+    "attachments": [
+      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/IsThisHeap.zip"
+    ],
     "services": [],
     "flag": null,
     "difficulty": 2,
@@ -1423,7 +1415,7 @@
     "category": ["Week4", "Pwn"],
     "tags": ["中等"],
     "author": "Nightu",
-    "attachments": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/pwn"],
     "services": [],
     "flag": null,
     "difficulty": 2,
@@ -1439,7 +1431,7 @@
     "category": ["Week4", "Pwn"],
     "tags": ["中等"],
     "author": "Nightu",
-    "attachments": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/ret2csu2.zip"],
     "services": [],
     "flag": null,
     "difficulty": 2,
@@ -1455,7 +1447,7 @@
     "category": ["Week4", "Pwn"],
     "tags": ["困难"],
     "author": "Nightu",
-    "attachments": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/KMario.7z"],
     "services": [],
     "flag": "flag{Mario_int0_th3_pip3_6ad0973b66df}",
     "difficulty": 3,
@@ -1471,7 +1463,9 @@
     "category": ["Week4", "Reverse"],
     "tags": ["中等"],
     "author": "FallW1nd",
-    "attachments": [],
+    "attachments": [
+      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/hard2decode.apk"
+    ],
     "services": [],
     "flag": "flag{QAQ_how2decode##pls_teAch_teVch_me!!}",
     "difficulty": 2,
@@ -1487,7 +1481,7 @@
     "category": ["Week4", "Reverse"],
     "tags": ["中等"],
     "author": "Gift1a",
-    "attachments": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/Exception.exe"],
     "services": [],
     "flag": "flag{44C3A7F112DA2BE728F451C5E2D09558}",
     "difficulty": 2,
@@ -1503,7 +1497,7 @@
     "category": ["Week4", "Reverse"],
     "tags": ["中等"],
     "author": "Gift1a",
-    "attachments": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/Hash.exe"],
     "services": [],
     "flag": "flag{Easy_Hash_And_Y0u_Solve_1t_Quickly!!}",
     "difficulty": 2,
@@ -1519,7 +1513,7 @@
     "category": ["Week4", "Reverse"],
     "tags": ["中等"],
     "author": "Lu1u",
-    "attachments": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/HelpMe.zip"],
     "services": [],
     "flag": "flag{This_is_@_begin_about@hack}",
     "difficulty": 2,
@@ -1534,7 +1528,7 @@
     "category": ["Week4", "Reverse"],
     "tags": ["中等"],
     "author": "voke",
-    "attachments": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/mpz.exe"],
     "services": [],
     "flag": "flag{gmp_llllllllll111111111_int!}",
     "difficulty": 2,
@@ -1565,7 +1559,9 @@
     "category": ["Week4", "Web"],
     "tags": ["简单"],
     "author": "JackPot",
-    "attachments": [],
+    "attachments": [
+      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/Remo_0.0.1_SNAPSHOT.jar"
+    ],
     "services": [],
     "flag": null,
     "difficulty": 1,
@@ -1625,7 +1621,7 @@
     "category": ["Week5", "Crypto"],
     "tags": ["中等"],
     "author": "Sias27",
-    "attachments": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-5/flip_flop.zip"],
     "services": [],
     "flag": "flag{filp_the_word!!!!!!!!}",
     "difficulty": 2,
@@ -1641,7 +1637,9 @@
     "category": ["Week5", "Crypto"],
     "tags": ["困难"],
     "author": "Sias27",
-    "attachments": [],
+    "attachments": [
+      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-5/An_der_schonen_Elliptische_Kurve.zip"
+    ],
     "services": [],
     "flag": "flag{ell1ptic_curv3_i5_be4ut1ful_right#4DF17ABE}",
     "difficulty": 3,
@@ -1657,7 +1655,7 @@
     "category": ["Week5", "Misc"],
     "tags": ["简单"],
     "author": "烨",
-    "attachments": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-5/task.txt"],
     "services": [],
     "flag": "flag{S0B48yCA}",
     "difficulty": 1,
@@ -1672,7 +1670,7 @@
     "category": ["Week5", "Misc"],
     "tags": ["简单"],
     "author": "烨",
-    "attachments": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-5/sqli.pcap"],
     "services": [],
     "flag": "flag{c84bb04a-8663-4ee2-9449-349f1ee83e11}",
     "difficulty": 1,
@@ -1687,7 +1685,9 @@
     "category": ["Week5", "Misc"],
     "tags": ["简单"],
     "author": "qsdz",
-    "attachments": [],
+    "attachments": [
+      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-5/Yesec_no_drumsticks_5.zip"
+    ],
     "services": [],
     "flag": "flag{Yesec#1s#c@ibi}",
     "difficulty": 1,
@@ -1703,7 +1703,9 @@
     "category": ["Week5", "Misc"],
     "tags": ["中等"],
     "author": "qsdz",
-    "attachments": [],
+    "attachments": [
+      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-5/girlfriend5.rar"
+    ],
     "services": [],
     "flag": "flag{W3lc0me_tO_be_NewSt@rs!}",
     "difficulty": 2,
@@ -1735,7 +1737,7 @@
     "category": ["Week5", "Misc"],
     "tags": ["困难"],
     "author": "Coldwinds",
-    "attachments": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-5/strange2.zip"],
     "services": [],
     "flag": "flag{It_1s_a_fak3_but_r3al_PDF}",
     "difficulty": 3
@@ -1779,7 +1781,7 @@
     "category": ["Week5", "Pwn"],
     "tags": ["简单"],
     "author": "Nightu",
-    "attachments": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-5/overflow.zip"],
     "services": [],
     "flag": null,
     "difficulty": 1,
@@ -1827,7 +1829,9 @@
     "category": ["Week5", "Reverse"],
     "tags": ["简单"],
     "author": "Gift1a",
-    "attachments": [],
+    "attachments": [
+      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-5/attachment.exe"
+    ],
     "services": [],
     "flag": "flag{12573882-1CF1-EB5E-C965-035B1F263C38}",
     "difficulty": 1,
@@ -1842,7 +1846,9 @@
     "category": ["Week5", "Reverse"],
     "tags": ["简单"],
     "author": "FallW1nd",
-    "attachments": [],
+    "attachments": [
+      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-5/Petals_Level_Up"
+    ],
     "services": [],
     "flag": "flag{d5658c0b4c44d4672d76b563a8505a66}",
     "difficulty": 1,
@@ -1857,7 +1863,7 @@
     "category": ["Week5", "Reverse"],
     "tags": ["中等"],
     "author": "Lu1u",
-    "attachments": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-5/task.ll"],
     "services": [],
     "flag": "flag{Hacking_for_fun@reverser$!}",
     "difficulty": 2,
@@ -1872,7 +1878,9 @@
     "category": ["Week5", "Reverse"],
     "tags": ["中等"],
     "author": "FallW1nd",
-    "attachments": [],
+    "attachments": [
+      "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-5/Virtual_Self_1"
+    ],
     "services": [],
     "flag": "flag{Will_you_see_the_light?}",
     "difficulty": 2,
@@ -1887,7 +1895,7 @@
     "category": ["Week5", "Reverse"],
     "tags": ["困难"],
     "author": "Gift1a",
-    "attachments": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-5/easy_mix.exe"],
     "services": [],
     "flag": "flag{RC4_and_SMC_is_interesting!}",
     "difficulty": 3,
