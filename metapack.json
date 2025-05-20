@@ -1,0 +1,1919 @@
+[
+  {
+    "id": 1,
+    "name": "Head? Header!",
+    "description": "真下头，诶，我的头呢？\n",
+    "category": ["Week1", "Web"],
+    "tags": ["签到"],
+    "author": "烨",
+    "attachments": [],
+    "services": [],
+    "flag": null,
+    "difficulty": 0,
+    "hints": ["https://blog.csdn.net/weixin_51735061/article/details/123647266"],
+    "extra": {
+      "knowledge": "HTTP 请求头"
+    }
+  },
+  {
+    "id": 2,
+    "name": "HTTP",
+    "description": "请用不同姿势进入 QSDZ\n",
+    "category": ["Week1", "Web"],
+    "tags": ["签到"],
+    "author": "烨",
+    "attachments": [],
+    "services": [],
+    "flag": null,
+    "difficulty": 0,
+    "extra": {
+      "knowledge": "HTTP 请求方式"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Word-For-You",
+    "description": "赛博顶针先生悄悄把 flag 告诉了 Mr.H，Mr.H 为了确保安全把 flag 放到了数据库中，你能找到吗？\n",
+    "category": ["Week1", "Web"],
+    "tags": ["签到"],
+    "author": "J1an",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{Th1s_is_0_simp1e_S0L_test}",
+    "difficulty": 0,
+    "hints": ["https://ctf-wiki.org/web/sqli/"],
+    "extra": {
+      "knowledge": "sql 注入、万能密码"
+    }
+  },
+  {
+    "id": 4,
+    "name": "我真的会谢",
+    "description": "我谢了啥？\n",
+    "category": ["Week1", "Web"],
+    "tags": ["签到"],
+    "author": "烨",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{Th1s_Is_s000_e4sy_d0_y00u_th1nk_so?}",
+    "difficulty": 0,
+    "extra": {
+      "knowledge": "信息收集、源码泄漏"
+    }
+  },
+  {
+    "id": 5,
+    "name": "NotPHP",
+    "description": "PHP 是世界上最好的编程语言\n",
+    "category": ["Week1", "Web"],
+    "tags": ["简单"],
+    "author": "烨",
+    "attachments": [],
+    "services": [],
+    "flag": null,
+    "difficulty": 1,
+    "extra": {
+      "knowledge": "PHP Trick"
+    }
+  },
+  {
+    "id": 6,
+    "name": "ret2text",
+    "description": "简单的 ret2text，注意一下程序里的奇奇怪怪的函数哦!\n",
+    "category": ["Week1", "Pwn"],
+    "tags": ["签到"],
+    "author": "Nightu",
+    "attachments": [],
+    "services": [],
+    "flag": null,
+    "difficulty": 0,
+    "hints": ["https://ctf-wiki.org/pwn/linux/user-mode/stackoverflow/x86/basic-rop/"],
+    "extra": {
+      "knowledge": "ret2text"
+    }
+  },
+  {
+    "id": 7,
+    "name": "ret2shellcode",
+    "description": "shellcode 是什么，壳码？怎莫会事呢？\n",
+    "category": ["Week1", "Pwn"],
+    "tags": ["签到"],
+    "author": "Nightu",
+    "attachments": [],
+    "services": [],
+    "flag": null,
+    "difficulty": 0,
+    "hints": ["https://ctf-wiki.org/pwn/linux/user-mode/stackoverflow/x86/basic-rop/"],
+    "extra": {
+      "knowledge": "ret2shellcode"
+    }
+  },
+  {
+    "id": 8,
+    "name": "ret2libc",
+    "description": "怎莫没有后门函数惹，不响丸辣！\n",
+    "category": ["Week1", "Pwn"],
+    "tags": ["签到"],
+    "author": "Nightu",
+    "attachments": [],
+    "services": [],
+    "flag": null,
+    "difficulty": 0,
+    "hints": ["https://ctf-wiki.org/pwn/linux/user-mode/stackoverflow/x86/basic-rop/"],
+    "extra": {
+      "knowledge": "ret2libc"
+    }
+  },
+  {
+    "id": 9,
+    "name": "FallW1nd's Gift",
+    "description": "这算个毛 gift！怎么是 puts 函数啊！\n",
+    "category": ["Week1", "Pwn"],
+    "tags": ["签到"],
+    "author": "a2ur2",
+    "attachments": [],
+    "services": [],
+    "flag": null,
+    "difficulty": 0,
+    "hints": ["https://www.cxyzjd.com/article/prettyX/107404509"],
+    "extra": {
+      "knowledge": "修改 GOT 表"
+    }
+  },
+  {
+    "id": 10,
+    "name": "calc",
+    "description": "我电脑弹计算器了，我不玩了！\n",
+    "category": ["Week1", "Pwn"],
+    "tags": ["签到"],
+    "author": "woodwhale",
+    "attachments": [],
+    "services": [],
+    "flag": null,
+    "difficulty": 0,
+    "extra": {
+      "knowledge": "nc/pwntools recv send"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Baby_Re",
+    "description": "程序真的都是从 main 开始的吗？\n",
+    "category": ["Week1", "Reverse"],
+    "tags": ["签到"],
+    "author": "Gift1a",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{S0meth1ng_run_bef0re_main!}",
+    "difficulty": 0,
+    "hints": ["https://Gift1a.github.io/2022/02/03/Init%E5%88%9D%E5%A7%8B%E5%8C%96/?highlight=init"],
+    "extra": {
+      "knowledge": "Linux 中 Init 段"
+    }
+  },
+  {
+    "id": 12,
+    "name": "EasyRe",
+    "description": "给符提亚的动态加载魔法\n",
+    "category": ["Week1", "Reverse"],
+    "tags": ["签到"],
+    "author": "Gift1a",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{Base64_1s_1nterestr1ng!!}",
+    "difficulty": 0,
+    "extra": {
+      "knowledge": "base64+DLL 加载"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Pyre",
+    "description": "FallW1nd 与 Gift1a 进行了一场 py 交易，目前两名嫌疑人已被警方逮捕，请你恢复出这场交易的信息\n",
+    "category": ["Week1", "Reverse"],
+    "tags": ["签到"],
+    "author": "Gift1a",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{PYRE_1S_S0_FUN!!!}",
+    "difficulty": 0,
+    "hints": ["https://www.cnblogs.com/QKSword/p/10540431.html"],
+    "extra": {
+      "knowledge": "pyinstaller 打包 exe 程序"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Hello_Reverse",
+    "description": "Reversing is the new sexy!!\n",
+    "category": ["Week1", "Reverse"],
+    "tags": ["签到"],
+    "author": "FallW1nd",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{h3llo_r3vers1ng_w0rld}",
+    "difficulty": 0
+  },
+  {
+    "id": 15,
+    "name": "艾克体悟题",
+    "description": "安卓四大组件之一！！？能吃吗 QwQ\n",
+    "category": ["Week1", "Reverse"],
+    "tags": ["签到"],
+    "author": "FallW1nd",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{Act1v1ty_!s_so00oo0o_Impor#an#}",
+    "difficulty": 0,
+    "extra": {
+      "knowledge": "Android Activity"
+    }
+  },
+  {
+    "id": 16,
+    "name": "qsdz's girlfriend 1",
+    "description": "我失忆了，这是我在我桌面上发现的压缩包，可是我忘记了压缩包密码了……请问你能帮助我找到我女朋友的名字吗？flag 格式为：`flag{女朋友名字_女朋友生日}`\n",
+    "category": ["Week1", "Misc"],
+    "tags": ["简单"],
+    "author": "qsdz",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{Hikari_20031201}",
+    "difficulty": 1,
+    "hints": [
+      "https://ctf-wiki.org/misc/archive/zip/#_3",
+      "https://ctf-wiki.org/misc/picture/png/#lsb",
+      "https://baike.baidu.com/item/base64/8545775",
+      "可以有其他办法破解压缩包，彩蛋设置，提示给尽了"
+    ],
+    "extra": {
+      "knowledge": "压缩包破解、base64、OSINT"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Yesec no drumsticks 1",
+    "description": "Yesec 是个老涩逼（lsb），所以要给他扣鸡腿\n",
+    "category": ["Week1", "Misc"],
+    "tags": ["签到"],
+    "author": "qsdz",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{Yesec_1s_lsb}",
+    "difficulty": 0,
+    "hints": ["https://ctf-wiki.org/misc/picture/png/#lsb"],
+    "extra": {
+      "knowledge": "LSB 隐写"
+    }
+  },
+  {
+    "id": 18,
+    "name": "奇怪的音频",
+    "description": "什么，音频居然可以传输图像？！\n",
+    "category": ["Week1", "Misc"],
+    "tags": ["简单"],
+    "author": "Coldwinds",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{SSTV_and_R0b0t36}",
+    "difficulty": 1,
+    "hints": ["https://zh.wikipedia.org/zh-cn/%E6%85%A2%E6%89%AB%E6%8F%8F%E7%94%B5%E8%A7%86"],
+    "extra": {
+      "knowledge": "SSTV"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Look my eyes",
+    "description": "请看着我沉默的眼睛\n",
+    "category": ["Week1", "Misc"],
+    "tags": ["签到"],
+    "author": "Komplize",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{L0ok_m3_1n_my_ey3s}",
+    "difficulty": 0,
+    "extra": {
+      "knowledge": "SlientEye"
+    }
+  },
+  {
+    "id": 20,
+    "name": "EzSnake",
+    "description": "达到 114 分即可获得一个一个一个一个 flag\n",
+    "category": ["Week1", "Misc"],
+    "tags": ["简单"],
+    "author": "woodwhale",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{Y0u_4re_0ne_oNe_0nE_st4R}",
+    "difficulty": 1,
+    "hints": ["https://segmentfault.com/a/1190000012180752"],
+    "extra": {
+      "knowledge": "游戏题/逆向代码/二维码补角/base64"
+    }
+  },
+  {
+    "id": 21,
+    "name": "RSA_begin",
+    "description": "有一种新型密码加密方式叫 RSA，你知道他是怎么运作的吗，不妨来试试攻破它？\n",
+    "category": ["Week1", "Crypto"],
+    "tags": ["简单"],
+    "author": "Dawn_whisper",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{W0w_U_ar3_re4L1y_g0Od_4t_m4th_4nD_RSA!!}",
+    "difficulty": 1,
+    "extra": {
+      "knowledge": "RSA"
+    }
+  },
+  {
+    "id": 22,
+    "name": "吉奥万·巴蒂斯塔·贝拉索先生的密码",
+    "description": "一个古老的密码, 你能破解它吗\n",
+    "category": ["Week1", "Crypto"],
+    "tags": ["签到"],
+    "author": "Sias27",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{bruteforce_is_useful_for_breaking_cipher}",
+    "difficulty": 0,
+    "extra": {
+      "knowledge": "vigenere"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Chaos",
+    "description": "看上去很复杂？\n",
+    "category": ["Week1", "Crypto"],
+    "tags": ["简单"],
+    "author": "Sycamore",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{ii24nji9-8ckkpil1-5hiev3n6-1u24g07m}",
+    "difficulty": 1,
+    "hints": [
+      "http://www.teleonline.cn/ch/reader/create_pdf.aspx?file_no=201605002&flag=&journal_id=dxjs&year_id=2016"
+    ],
+    "extra": {
+      "knowledge": "对称密码"
+    }
+  },
+  {
+    "id": 24,
+    "name": "eazyxor",
+    "description": "简单的异或\n",
+    "category": ["Week1", "Crypto"],
+    "tags": ["签到"],
+    "author": "Sias27",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{x0r_i5_qu1t3_3azy}",
+    "difficulty": 0,
+    "extra": {
+      "knowledge": "XOR 加密"
+    }
+  },
+  {
+    "id": 25,
+    "name": "caeser",
+    "description": "听说尤利乌斯发明了一套防止消息泄漏的方法\n",
+    "category": ["Week1", "Crypto"],
+    "tags": ["签到"],
+    "author": "Sias27",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{historical_cipher_is_vulnerable}",
+    "difficulty": 0,
+    "extra": {
+      "knowledge": "凯撒密码"
+    }
+  },
+  {
+    "id": 26,
+    "name": "ezAPI",
+    "description": "qsdz 开发了一个查询网页，但是好像存在一些漏洞？\n",
+    "category": ["Week2", "Web"],
+    "tags": ["简单"],
+    "author": "烨",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{4a902c8e-a8b5-ecfb-bee3-d6419865647c}",
+    "difficulty": 1,
+    "hints": ["https://zhuanlan.zhihu.com/p/40418866"],
+    "extra": {
+      "knowledge": "GraphQL"
+    }
+  },
+  {
+    "id": 27,
+    "name": "IncludeOne",
+    "description": "文件包含漏洞系列第一题，也不知道是不是真的随机？\n\n出题人丢给你了一个工具：https://www.openwall.com/php_mt_seed/\n",
+    "category": ["Week2", "Web"],
+    "tags": ["简单"],
+    "author": "烨",
+    "attachments": [],
+    "services": [],
+    "flag": null,
+    "difficulty": 1,
+    "hints": ["https://www.openwall.com/php_mt_seed/"],
+    "extra": {
+      "knowledge": "PHP 伪随机数，php://filter 伪协议读文件"
+    }
+  },
+  {
+    "id": 28,
+    "name": "UnserializeOne",
+    "description": "PHP 反序列化漏洞系列第一题\n",
+    "category": ["Week2", "Web"],
+    "tags": ["简单"],
+    "author": "烨",
+    "attachments": [],
+    "services": [],
+    "flag": null,
+    "difficulty": 1,
+    "hints": ["https://zhuanlan.zhihu.com/p/377676274"],
+    "extra": {
+      "knowledge": "PHP 反序列化、POP 链构造"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Word-For-You (2 Gen)",
+    "description": "哇哇哇，我把查询界面改了，现在你们不能从数据库中拿到东西了吧哈哈（不过为了调试的代码似乎忘记删除了\n",
+    "category": ["Week2", "Web"],
+    "tags": ["简单"],
+    "author": "J1an",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{Ju4t_m2ke_some_err0rs}",
+    "difficulty": 1,
+    "extra": {
+      "knowledge": "报错注入"
+    }
+  },
+  {
+    "id": 30,
+    "name": "砍一刀",
+    "description": "我还差 1% 就能成功，帮我砍一刀，一起领 flag\n",
+    "category": ["Week2", "Pwn"],
+    "tags": ["中等"],
+    "author": "Coldwinds",
+    "attachments": [],
+    "services": [],
+    "flag": null,
+    "difficulty": 2,
+    "hints": ["https://ctf-wiki.org/pwn/linux/user-mode/fmtstr/fmtstr-exploit/"],
+    "extra": {
+      "knowledge": "Format String"
+    }
+  },
+  {
+    "id": 31,
+    "name": "shellcode-revenge",
+    "description": "我把你当朋友，你却想拿我的 shell？题目不要面子的嘛，这次你有本事再把我秒了。\n",
+    "category": ["Week2", "Pwn"],
+    "tags": ["简单"],
+    "author": "Nightu",
+    "attachments": [],
+    "services": [],
+    "flag": null,
+    "difficulty": 1,
+    "hints": ["https://chromium.googlesource.com/chromiumos/docs/+/HEAD/constants/syscalls.md"],
+    "extra": {
+      "knowledge": "ret2shellcode，seccomp orw 绕过"
+    }
+  },
+  {
+    "id": 32,
+    "name": "buffer-fly",
+    "description": "今天来点大家想看的东西，环境是 Ubuntu 20 捏\n",
+    "category": ["Week2", "Pwn"],
+    "tags": ["简单"],
+    "author": "Niyah",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{b3c0me_4_butt3rf1y}",
+    "difficulty": 1,
+    "extra": {
+      "knowledge": "buffer 初始化，栈溢出，输入输出重定向"
+    }
+  },
+  {
+    "id": 33,
+    "name": "uint32 and ret",
+    "description": "\n",
+    "category": ["Week2", "Pwn"],
+    "tags": ["简单"],
+    "author": "eeee",
+    "attachments": [],
+    "services": [],
+    "flag": null,
+    "difficulty": 1,
+    "extra": {
+      "knowledge": "整数溢出"
+    }
+  },
+  {
+    "id": 34,
+    "name": "Likemyasp",
+    "description": "喜欢我 asp 壳吗\n",
+    "category": ["Week2", "Reverse"],
+    "tags": ["简单"],
+    "author": "Xunflash",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{x1hu@n_w0_4sp_ma??}",
+    "difficulty": 1,
+    "hints": ["https://blog.csdn.net/whatday/article/details/99709317"],
+    "extra": {
+      "knowledge": "去除特征 UPX 壳，位移取反异或"
+    }
+  },
+  {
+    "id": 35,
+    "name": "FindME",
+    "description": "Where is my gift?\n",
+    "category": ["Week2", "Reverse"],
+    "tags": ["简单"],
+    "author": "Lu1u",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{D0nt_let_time_bo_so_cheap!}",
+    "difficulty": 1,
+    "extra": {
+      "knowledge": "交叉引用定位代码逻辑，求解位运算"
+    }
+  },
+  {
+    "id": 36,
+    "name": "前可见古人，后得见来者",
+    "description": "前可见古人，后得见来者\n",
+    "category": ["Week2", "Reverse"],
+    "tags": ["简单"],
+    "author": "Lu1u",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{begin_and_end_re_and_you}",
+    "difficulty": 1,
+    "extra": {
+      "knowledge": "TLSCALLBACK 函数和 atexit 函数"
+    }
+  },
+  {
+    "id": 37,
+    "name": "Petals",
+    "description": "mY fLoWer 2 yOu\n",
+    "category": ["Week2", "Reverse"],
+    "tags": ["简单"],
+    "author": "FallW1nd",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{d780c9b2d2aa9d40010a753bc15770de}",
+    "difficulty": 1,
+    "extra": {
+      "knowledge": "花指令"
+    }
+  },
+  {
+    "id": 38,
+    "name": "ur_so_naive",
+    "description": "图样图森破，亦可赛个艇\n",
+    "category": ["Week2", "Reverse"],
+    "tags": ["简单"],
+    "author": "FallW1nd",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{n@1ve_luv_2you#ouo}",
+    "difficulty": 1,
+    "extra": {
+      "knowledge": "Android 动态加载 so"
+    }
+  },
+  {
+    "id": 39,
+    "name": "qsdz's girlfriend 2",
+    "description": "据说 qsdz 的 girlfriend 是会变化的猫猫。\n\nFLAG 格式为 `flag{图片中的文字}`\n",
+    "category": ["Week2", "Misc"],
+    "tags": ["简单"],
+    "author": "qsdz",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{按理说这个点猪也该醒了}",
+    "difficulty": 1,
+    "hints": ["https://zhuanlan.zhihu.com/p/90483213"],
+    "extra": {
+      "knowledge": "Arnold 变换，hex to ascii"
+    }
+  },
+  {
+    "id": 40,
+    "name": "Yesec no drumsticks 2",
+    "description": "Vim says that he can see Yesec's 内心\n",
+    "category": ["Week2", "Misc"],
+    "tags": ["简单"],
+    "author": "qsdz",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{Ingr3d1ent_0F_Yesec_i5_OOOOO}",
+    "difficulty": 1,
+    "hints": ["https://blog.csdn.net/Hardworking666/article/details/122278638"],
+    "extra": {
+      "knowledge": "零宽字符，base58，base16"
+    }
+  },
+  {
+    "id": 41,
+    "name": "Coldwinds's Desktop",
+    "description": "Coldwinds 的桌面被撕成了碎片！你能帮他复原吗？\n",
+    "category": ["Week2", "Misc"],
+    "tags": ["简单"],
+    "author": "Coldwinds",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{Y0u_successfu11y_s01ved_the_puzz1e}",
+    "difficulty": 1,
+    "extra": {
+      "knowledge": "montage+gaps 拼图"
+    }
+  },
+  {
+    "id": 42,
+    "name": "奇怪的波形",
+    "description": "Coldwinds 捕获到一段奇怪的波形，好像是某种加密算法的能量损耗，\n\n你能帮他破译出加密算法的 key 吗？\n\nFLAG 格式为 `flag{key}`\n",
+    "category": ["Week2", "Misc"],
+    "tags": ["中等"],
+    "author": "Coldwinds",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{0010001001100111}",
+    "difficulty": 2,
+    "extra": {
+      "knowledge": "侧信道"
+    }
+  },
+  {
+    "id": 43,
+    "name": "奇怪的二维码",
+    "description": "这个二维码为啥扫不出来？\n",
+    "category": ["Week2", "Misc"],
+    "tags": ["简单"],
+    "author": "Coldwinds",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{Aztec_from_Age_0f_Empires}",
+    "difficulty": 1,
+    "extra": {
+      "knowledge": "Aztec 码"
+    }
+  },
+  {
+    "id": 44,
+    "name": "Affine",
+    "description": "你知道 flag 的格式吗\n",
+    "category": ["Week2", "Crypto"],
+    "tags": ["简单"],
+    "author": "Sias27",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{Kn0wn_p1aint3xt_4ttack}",
+    "difficulty": 1,
+    "extra": {
+      "knowledge": "仿射密码 + 已知明文分析"
+    }
+  },
+  {
+    "id": 45,
+    "name": "robot",
+    "description": "人类的本质是什么？\n",
+    "category": ["Week2", "Crypto"],
+    "tags": ["签到"],
+    "author": "Dawn_whisper",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{c4Nn0t_D3crYpt_buT_r3p34t_Yes}",
+    "difficulty": 0,
+    "extra": {
+      "knowledge": "明文空间爆破"
+    }
+  },
+  {
+    "id": 46,
+    "name": "ezRabin",
+    "description": "$e, p, q$ 都知道了还有什么能难倒我呢\n",
+    "category": ["Week2", "Crypto"],
+    "tags": ["签到"],
+    "author": "Cata1yst",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{R4bin_3ncrypti0n_with_3_mod_4_is_two_e4sy}",
+    "difficulty": 0,
+    "extra": {
+      "knowledge": "RSA Rabin"
+    }
+  },
+  {
+    "id": 47,
+    "name": "ezPRNG",
+    "description": "随机数？\n",
+    "category": ["Week2", "Crypto"],
+    "tags": ["签到"],
+    "author": "Dawn_whisper",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{lcG_1s_s0_34sy}",
+    "difficulty": 0,
+    "extra": {
+      "knowledge": "PRNG"
+    }
+  },
+  {
+    "id": 48,
+    "name": "unusual_base",
+    "description": "这个编码咋不一样咧\n",
+    "category": ["Week2", "Crypto"],
+    "tags": ["简单"],
+    "author": null,
+    "attachments": [],
+    "services": [],
+    "flag": "flag{a1ph4bet_c0u1d_be_d1ffi3r3nt}",
+    "difficulty": 1,
+    "extra": {
+      "knowledge": "base64 换表"
+    }
+  },
+  {
+    "id": 49,
+    "name": "IncludeTwo",
+    "description": "文件包含漏洞系列第二题\n\nHow to RCE via LFI? P……\n",
+    "category": ["Week3", "Web"],
+    "tags": ["简单"],
+    "author": "烨",
+    "attachments": [],
+    "services": [],
+    "flag": null,
+    "difficulty": 1,
+    "extra": {
+      "knowledge": "文件包含 pearGetShell"
+    }
+  },
+  {
+    "id": 50,
+    "name": "Maybe You Have To think More",
+    "description": "PHP 反序列化漏洞系列第二题。想啊想啊想不到，这可不是 SQL 注入哦～～～\n",
+    "category": ["Week3", "Web"],
+    "tags": ["简单"],
+    "author": "J1an",
+    "attachments": [],
+    "services": [],
+    "flag": null,
+    "difficulty": 1,
+    "hints": ["看看 Cookie ThinkPHP 5 框架反序列化 RCE"],
+    "extra": {
+      "knowledge": "ThinkPHP 5 框架反序列化 RCE"
+    }
+  },
+  {
+    "id": 51,
+    "name": "BabySSTI_One",
+    "description": "Flask SSTI 模板注入漏洞系列第一题，So Baby Bypass.\n",
+    "category": ["Week3", "Web"],
+    "tags": ["简单"],
+    "author": "烨",
+    "attachments": [],
+    "services": [],
+    "flag": null,
+    "difficulty": 1,
+    "extra": {
+      "knowledge": "Python SSTI"
+    }
+  },
+  {
+    "id": 52,
+    "name": "multiSQL",
+    "description": "听说火华师傅四级又挂掉了，他不好给他的英语老师交代，你能帮他改改成绩通过学校的验证嘛～\n",
+    "category": ["Week3", "Web"],
+    "tags": ["简单"],
+    "author": "J1an",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{Ju3t_use_mo2e_t2en_0ne_SQL}",
+    "difficulty": 1,
+    "hints": ["堆叠注入，update 更改"],
+    "extra": {
+      "knowledge": "堆叠注入"
+    }
+  },
+  {
+    "id": 53,
+    "name": "ret2csu1",
+    "description": "ret2csu 系列第一题\n",
+    "category": ["Week3", "Pwn"],
+    "tags": ["中等"],
+    "author": "Nightu",
+    "attachments": [],
+    "services": [],
+    "flag": null,
+    "difficulty": 2,
+    "hints": ["execve 的三个参数是什么意思 QwQ，果然我还是看看文档比较好吧"],
+    "extra": {
+      "knowledge": "ret2csu"
+    }
+  },
+  {
+    "id": 54,
+    "name": "sheep a flag",
+    "description": "羊了个旗！不会 ACM 的 CTFer 不是一个好胖手！\n",
+    "category": ["Week3", "Pwn"],
+    "tags": ["简单"],
+    "author": "woodwhale",
+    "attachments": [],
+    "services": [],
+    "flag": null,
+    "difficulty": 1,
+    "hints": ["迷宫 DFS、BFS、回溯，fmtstr_payload"],
+    "extra": {
+      "knowledge": "迷宫算法、fmt"
+    }
+  },
+  {
+    "id": 55,
+    "name": "Read&Write",
+    "description": "都什么年代了，还在玩传统 ROP，快试试船新版本的 ROP 链写法\n",
+    "category": ["Week3", "Pwn"],
+    "tags": ["简单"],
+    "author": "Nightu",
+    "attachments": [],
+    "services": [],
+    "flag": null,
+    "difficulty": 1,
+    "hints": ["小朋友们，你们有过数组下标写过头被麻麻骂一下午的经历吗"],
+    "extra": {
+      "knowledge": "数组下标越界读写"
+    }
+  },
+  {
+    "id": 56,
+    "name": "cat flag",
+    "description": "好像不给 cat flag，但好像又能 cat flag\n",
+    "category": ["Week3", "Pwn"],
+    "tags": ["简单"],
+    "author": "Coldwinds",
+    "attachments": [],
+    "services": [],
+    "flag": null,
+    "difficulty": 1,
+    "hints": ["程序在 cat file 前会小睡一会，如果能在这时 change filename 的话……"],
+    "extra": {
+      "knowledge": "竞态条件"
+    }
+  },
+  {
+    "id": 57,
+    "name": "Annnnnggrr",
+    "description": "System of symbolic execution\n",
+    "category": ["Week3", "Reverse"],
+    "tags": ["中等"],
+    "author": "FallW1nd",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{umm_I_can't_calc_1t_@t_all}",
+    "difficulty": 2,
+    "extra": {
+      "knowledge": "Angr 的使用，Z3 也行"
+    }
+  },
+  {
+    "id": 58,
+    "name": "EzTea",
+    "description": "送你昏睡红茶，敬红茶一杯\n",
+    "category": ["Week3", "Reverse"],
+    "tags": ["中等"],
+    "author": "Xunflash",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{H0P3_U_L1k3_Th15_CUP_0f_TEa.}",
+    "difficulty": 2,
+    "extra": {
+      "knowledge": "魔改 xxTea 加密，dword 与 byte"
+    }
+  },
+  {
+    "id": 59,
+    "name": "Zzzzzz3333",
+    "description": "System of equations\n",
+    "category": ["Week3", "Reverse"],
+    "tags": ["简单"],
+    "author": "Gift1a",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{Zzzz333_Is_Cool!!!}",
+    "difficulty": 1,
+    "extra": {
+      "knowledge": "Z3 的使用"
+    }
+  },
+  {
+    "id": 60,
+    "name": "funnyOTL",
+    "description": "FallW1nd 在日常膜 Gift1a 神的时候，一不小心就被拧成了麻花\n",
+    "category": ["Week3", "Reverse"],
+    "tags": ["中等"],
+    "author": "FallW1nd",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{OTL_n0w_u_know_STL}",
+    "difficulty": 2,
+    "extra": {
+      "knowledge": "asdasd"
+    }
+  },
+  {
+    "id": 61,
+    "name": "The Slider's Labyrinth",
+    "description": "这个好像不是天境二模组的那个副本\n",
+    "category": ["Week3", "Reverse"],
+    "tags": ["简单"],
+    "author": "Xunflash",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{f71516bdf07abd7bc0668db9d6352364}",
+    "difficulty": 1,
+    "extra": {
+      "knowledge": "迷宫题，多指令共用字节花指令"
+    }
+  },
+  {
+    "id": 62,
+    "name": "qsdz's girlfriend 3",
+    "description": "我们入侵了 qsdz 的服务器，你可以在服务器中找到他真实的女朋友吗？qsdz 的用户密码是 `Hikari`（请用 SSH 连接）\n",
+    "category": ["Week3", "Misc"],
+    "tags": ["简单"],
+    "author": "qsdz",
+    "attachments": [],
+    "services": [],
+    "flag": null,
+    "difficulty": 1,
+    "hints": [
+      "https://blog.csdn.net/sinat_28442665/article/details/115523792",
+      "用户名是 `qsdz`，密码是 `Hikari`",
+      "qsdz 讨厌 ll 指令，它会把秘密都暴露出来，包括权限位",
+      "也许你用得上这个网站: https://gtfobins.github.io/"
+    ],
+    "extra": {
+      "knowledge": "SSH 连接服务器、基础 Linux 知识、SUID 提权"
+    }
+  },
+  {
+    "id": 63,
+    "name": "Yesec no drumsticks 3",
+    "description": "如果你愿意一层一层一层地剥开出题人的心……\n\n注：这是一道多选题\n",
+    "category": ["Week3", "Misc"],
+    "tags": ["简单"],
+    "author": "qsdz",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{I_r3ally_Want_tO_be_1I1I1}",
+    "difficulty": 1,
+    "hints": [
+      "一切内容都跟压缩包相关，除了压缩包还是压缩包",
+      "1. 不要用 file 指令",
+      "2. 忽略 extrafield 的东西",
+      "3. 你看到的已加密不一定是真的加密，你看到的未恢复密码不一定未恢复密钥",
+      "4. 图片真的没用，不要再纠结图片了，是 qsdz 的恶趣味罢了"
+    ],
+    "extra": {
+      "knowledge": "压缩包和压缩包"
+    }
+  },
+  {
+    "id": 64,
+    "name": "WebShell！",
+    "description": "溯源攻击者窃取的文件内容！他用了蚁剑诶？\n\nFLAG 格式为 `flag{WebShell密码_黑客获取的用户名_机密文件内容}`，例如 `flag{cmd_root_secret}`\n",
+    "category": ["Week3", "Misc"],
+    "tags": ["简单"],
+    "author": "烨",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{n3wst4r_www-data_Y0UAr3G00D}",
+    "difficulty": 1,
+    "extra": {
+      "knowledge": "蚁剑流量分析"
+    }
+  },
+  {
+    "id": 65,
+    "name": "混沌的图像",
+    "description": "听说之前考过 LSB，那你还记得那道密码题吗？\n",
+    "category": ["Week3", "Misc"],
+    "tags": ["中等"],
+    "author": "Sycamore",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{easy_chaos_encrypt!!!_776e6d30}",
+    "difficulty": 2,
+    "hints": [
+      "CmltZyA9IEltYWdlLm9wZW4oJ2ZsYWcucG5nJykKdyxoPWltZy5zaXplCmZvciBpIGluIHJhbmdlKHcpOgogICAgZm9yIGogaW4gcmFuZ2UoaCk6CiAgICAociwgZywgYiwgYSkgPSBpbWcuZ2V0cGl4ZWwoKGksaikpCiAgICBwaWMuYXBwZW5kKHIpCiAgICBwaWMuYXBwZW5kKGcpCiAgICBwaWMuYXBwZW5kKGIpCg=="
+    ],
+    "extra": {
+      "knowledge": "LSB+混沌密码图像加密，加密算法前几周密码题给"
+    }
+  },
+  {
+    "id": 66,
+    "name": "Whats HTTP",
+    "description": "这是什么东西？好像是 HTTP，WireShark 看看吧\n",
+    "category": ["Week3", "Misc"],
+    "tags": ["签到"],
+    "author": "烨",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{4f33649d030c6778426971b54dd72ece}",
+    "difficulty": 0,
+    "extra": {
+      "knowledge": "HTTP 流量分析"
+    }
+  },
+  {
+    "id": 67,
+    "name": "keyExchange",
+    "description": "我有 flag, 你有密钥吗\n",
+    "category": ["Week3", "Crypto"],
+    "tags": ["简单"],
+    "author": "Sias27",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{d1ff1e_h311m4n_is_4_p13c3_0f_c4k3}",
+    "difficulty": 1,
+    "extra": {
+      "knowledge": "Diffie-Hellman"
+    }
+  },
+  {
+    "id": 68,
+    "name": "Prof. Shamir's Secret",
+    "description": "Shamir 教授悄悄过去留下小秘密 ~\n\n藏在模 $p$ 多项式里就不告诉你 ~\n\n> 插值, sagemath, 真是好用啊\n",
+    "category": ["Week3", "Crypto"],
+    "tags": ["简单"],
+    "author": "Sias27",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{w0w_y0u_k0nw_sham1r_s3cret_5h4r1ng_4nd_1agrange_interpolation!!!}",
+    "difficulty": 1,
+    "extra": {
+      "knowledge": "Shamir Secret Sharing"
+    }
+  },
+  {
+    "id": 69,
+    "name": "One Time Pad",
+    "description": "听说 OTP 是不可破解的（\n",
+    "category": ["Week3", "Crypto"],
+    "tags": ["简单"],
+    "author": "Sias27",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{frequency_analysis_could_be_useful#A6DC1D643A29}",
+    "difficulty": 1,
+    "extra": {
+      "knowledge": "kasis 测试法+密钥移位枚举"
+    }
+  },
+  {
+    "id": 70,
+    "name": "AES?",
+    "description": "这么多数据有什么用\n",
+    "category": ["Week3", "Crypto"],
+    "tags": ["中等"],
+    "author": "Sycamore",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{7h7gi3nl-ald4ssf8-eajfwm7t-rujquhmg}",
+    "difficulty": 2,
+    "extra": {
+      "knowledge": "随机数预测"
+    }
+  },
+  {
+    "id": 71,
+    "name": "Checkin",
+    "description": "简简单单的签到题\n\n> 所有 Blockchain 题目均部署在 Goerli 测试网）\n\n> Goerli 水龙头：https://goerlifaucet.com/\n\n`nc 124.221.212.109 10000`\n",
+    "category": ["Week3", "Blockchain"],
+    "tags": ["签到"],
+    "author": "Coldwinds",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{Ea2y_B1ockChain_Ch3ckin}",
+    "difficulty": 0,
+    "extra": {
+      "knowledge": "智能合约交互"
+    }
+  },
+  {
+    "id": 72,
+    "name": "guess number",
+    "description": "猜猜数字是什么？\n\n`0x168d2A47c58ae63ea2a2A4c622259c84086f791D@Goerli`\n\n`nc 124.221.212.109 10001`\n",
+    "category": ["Week3", "Blockchain"],
+    "tags": ["简单"],
+    "author": "Coldwinds",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{Wh4t_1s_th3_numb3r}",
+    "difficulty": 1,
+    "hints": ["使用浏览器可以查看合约的交互历史，也许能看到 setnumber 函数的参数哦\n\nhttps://goerli.etherscan.io/"],
+    "extra": {
+      "knowledge": "使用区块链浏览器和反编译工具"
+    }
+  },
+  {
+    "id": 73,
+    "name": "the chosen one",
+    "description": "只有天选之人才能做出这道题，你是其中之一吗？\n\n`nc 124.221.212.109 10002`\n",
+    "category": ["Week3", "Blockchain"],
+    "tags": ["简单"],
+    "author": "Coldwinds",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{Y0u_ar3_th3_ch00s3n_0n3}",
+    "difficulty": 1,
+    "hints": ["只有特定尾号的地址才能与合约交互\n\nhttps://vanity-eth.tk/"],
+    "extra": {
+      "knowledge": "特定钱包地址生成"
+    }
+  },
+  {
+    "id": 74,
+    "name": "Rome",
+    "description": "so easy java chanllenge，先这样再那样就出啦！\n\n记得先反编译一下附件～ jd-gui 就行\n",
+    "category": ["Week4", "Web"],
+    "tags": ["简单"],
+    "author": "JackPot",
+    "attachments": [],
+    "services": [],
+    "flag": null,
+    "difficulty": 1,
+    "extra": {
+      "knowledge": "Java 反序列化"
+    }
+  },
+  {
+    "id": 75,
+    "name": "UnserializeThree",
+    "description": "PHP 反序列化漏洞系列第三题。当文件上传遇到反序列化，擦出爱（RCE）的火花\n",
+    "category": ["Week4", "Web"],
+    "tags": ["简单"],
+    "author": "烨",
+    "attachments": [],
+    "services": [],
+    "flag": null,
+    "difficulty": 1,
+    "extra": {
+      "knowledge": "Phar 反序列化"
+    }
+  },
+  {
+    "id": 76,
+    "name": "BabySSTI_Two",
+    "description": "PythonSSTI 模板注入漏洞系列第二题，这次不信你们还能绕过我！（应该安全了吧？\n",
+    "category": ["Week4", "Web"],
+    "tags": ["简单"],
+    "author": "烨",
+    "attachments": [],
+    "services": [],
+    "flag": null,
+    "difficulty": 1,
+    "extra": {
+      "knowledge": "Python SSTI"
+    }
+  },
+  {
+    "id": 77,
+    "name": "又一个 SQL",
+    "description": "嘶，我就不信我只让你们知道谁留言了你们还能偷走我的数据\n",
+    "category": ["Week4", "Web"],
+    "tags": ["中等"],
+    "author": "J1an",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{We_0nly_have_2wo_choices}",
+    "difficulty": 2,
+    "extra": {
+      "knowledge": "布尔盲注，空格绕过"
+    }
+  },
+  {
+    "id": 78,
+    "name": "So Baby RCE",
+    "description": "今天你 RCE 了吗？\n",
+    "category": ["Week4", "Web"],
+    "tags": ["简单"],
+    "author": "JackPot",
+    "attachments": [],
+    "services": [],
+    "flag": null,
+    "difficulty": 1,
+    "extra": {
+      "knowledge": "RCE Bypass"
+    }
+  },
+  {
+    "id": 79,
+    "name": "ret2csu2",
+    "description": "ret2csu 系列第二题\n",
+    "category": ["Week4", "Pwn"],
+    "tags": ["中等"],
+    "author": "Nightu",
+    "attachments": [],
+    "services": [],
+    "flag": null,
+    "difficulty": 2,
+    "hints": ["首先要栈迁移啦，然后这个 mprotect 不用真的没关系嘛"],
+    "extra": {
+      "knowledge": "栈迁移，shellcode"
+    }
+  },
+  {
+    "id": 80,
+    "name": "OhMyShellcode",
+    "description": "上次还是被你拿到了我的 flag，这次我把 syscall 拿掉辣，有本事继续把我扬了\n",
+    "category": ["Week4", "Pwn"],
+    "tags": ["中等"],
+    "author": "Nightu",
+    "attachments": [],
+    "services": [],
+    "flag": null,
+    "difficulty": 2,
+    "hints": ["非预期：检测范围并不完整 XD\n\n预期：好像只有读入的时候有限制哦，想办法运行时修改 shellcode 试试呢"],
+    "extra": {
+      "knowledge": "shellcode"
+    }
+  },
+  {
+    "id": 81,
+    "name": "canary",
+    "description": "快点 V 我，要不然告诉你环境是 20.04 也不让你栈溢出\n",
+    "category": ["Week4", "Pwn"],
+    "tags": ["简单"],
+    "author": "予柒",
+    "attachments": [],
+    "services": [],
+    "flag": null,
+    "difficulty": 1,
+    "hints": ["格式化字符串可以泄露栈上内容和任一地址改"],
+    "extra": {
+      "knowledge": "格式化字符串泄露 canary 和程序地址"
+    }
+  },
+  {
+    "id": 82,
+    "name": "这是堆🐴",
+    "description": "长得一副堆样，不确定，我再看看\n",
+    "category": ["Week4", "Pwn"],
+    "tags": ["中等"],
+    "author": "Nightu",
+    "attachments": [],
+    "services": [],
+    "flag": null,
+    "difficulty": 2,
+    "hints": ["对下标的检测怎么只检测一半啊 =。=\n\n程序中有个指向自己的指针，可以完成任意读写 XD"],
+    "extra": {
+      "knowledge": "数组越界构造任意地址读写，劫持 GOT 表"
+    }
+  },
+  {
+    "id": 83,
+    "name": "这是堆🐎",
+    "description": "出题人再坏比，新生赛也是不可能有堆的啦，Good Luck ~\n",
+    "category": ["Week4", "Pwn"],
+    "tags": ["阴间"],
+    "author": "Nightu",
+    "attachments": [],
+    "services": [],
+    "flag": null,
+    "difficulty": 0,
+    "hints": ["_IO_FILE 利用，一次打 stdout leak libc，一次打 stdout 在 puts 时控制执行流"],
+    "extra": {
+      "knowledge": "数组越界构造任意地址读写，IO FILE"
+    }
+  },
+  {
+    "id": 84,
+    "name": "KMario",
+    "description": "Mario and his lovely...\n\n> 1. 远程有动态链接库\n> 2. `context.log_level = 'debug'`\n",
+    "category": ["Week4", "Pwn"],
+    "tags": ["困难"],
+    "author": "Nightu",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{Mario_int0_th3_pip3_6ad0973b66df}",
+    "difficulty": 3,
+    "hints": ["Github 原 PoC 哦，搜索一下 diff 文件也许就能知道是哪个 CVE 啦"],
+    "extra": {
+      "knowledge": "Kernel CVE"
+    }
+  },
+  {
+    "id": 85,
+    "name": "HelpMe",
+    "description": "ps1、xlsm 你们还我礼物\n",
+    "category": ["Week4", "Reverse"],
+    "tags": ["中等"],
+    "author": "Lu1u",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{This_is_@_begin_about@hack}",
+    "difficulty": 2,
+    "extra": {
+      "knowledge": "powershell 加密脚本 1excel 宏"
+    }
+  },
+  {
+    "id": 86,
+    "name": "mpz",
+    "description": "lumina may be helpful\n",
+    "category": ["Week4", "Reverse"],
+    "tags": ["中等"],
+    "author": "voke",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{gmp_llllllllll111111111_int!}",
+    "difficulty": 2,
+    "hints": ["bindiff"],
+    "extra": {
+      "knowledge": "gmp 库 bindiff 使用"
+    }
+  },
+  {
+    "id": 87,
+    "name": "Hash",
+    "description": "Find the Correct Way to Get the Flag\n",
+    "category": ["Week4", "Reverse"],
+    "tags": ["中等"],
+    "author": "Gift1a",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{Easy_Hash_And_Y0u_Solve_1t_Quickly!!}",
+    "difficulty": 2,
+    "hints": ["Python hashlib、搜索使用到的 API"],
+    "extra": {
+      "knowledge": "SHA1 爆破"
+    }
+  },
+  {
+    "id": 88,
+    "name": "Exception",
+    "description": "程序出错了总归还是要处理的\n",
+    "category": ["Week4", "Reverse"],
+    "tags": ["中等"],
+    "author": "Gift1a",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{44C3A7F112DA2BE728F451C5E2D09558}",
+    "difficulty": 2,
+    "hints": ["异常处理机制，尝试一下动调时在汇编层跟进"],
+    "extra": {
+      "knowledge": "异常处理机制"
+    }
+  },
+  {
+    "id": 89,
+    "name": "哈德兔的口",
+    "description": "买 斯卷引 哈符 奔 嗯快普特。砍 鼬 瑞卡我 伊特？\n",
+    "category": ["Week4", "Reverse"],
+    "tags": ["中等"],
+    "author": "FallW1nd",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{QAQ_how2decode##pls_teAch_teVch_me!!}",
+    "difficulty": 2,
+    "hints": ["动调 so 层，或者用 frida hook 解密字符串"],
+    "extra": {
+      "knowledge": "字符串加密"
+    }
+  },
+  {
+    "id": 90,
+    "name": "qsdz's girlfriend 4",
+    "description": "我的女朋友到底给我传递了什么消息呢？\n",
+    "category": ["Week4", "Misc"],
+    "tags": ["简单"],
+    "author": "qsdz",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{Esol4ng_1s_es0}",
+    "difficulty": 1,
+    "hints": [
+      "我们进行决策的方法，比较好用的一个是排除法。首先我的女朋友给我留的纸条上写的肯定不是汉语，那是什么语言呢？`flag.txt` 里的肯定不是 C 语言，那是什么语言呢？"
+    ],
+    "extra": {
+      "knowledge": "esolang-malbolge，OSINT"
+    }
+  },
+  {
+    "id": 91,
+    "name": "Yesec no drumsticks 4",
+    "description": "Yesec，你又在看黄图啦？不过这图怎么黄得有点不太一样？\n",
+    "category": ["Week4", "Misc"],
+    "tags": ["中等"],
+    "author": "qsdz",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{Yesec_deCid3s_t0_ch4nge_7he_fate_of_the_world_against_the_odds}",
+    "difficulty": 2,
+    "hints": ["task.py"],
+    "extra": {
+      "knowledge": "图片脚本提取，其实手提也可以啦"
+    }
+  },
+  {
+    "id": 92,
+    "name": "奇怪的 PDF",
+    "description": "很普通的 PDF 题\n",
+    "category": ["Week4", "Misc"],
+    "tags": ["简单"],
+    "author": "Coldwinds",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{PDF_1s_n0t_strang3}",
+    "difficulty": 1,
+    "extra": {
+      "knowledge": "PDF 隐写 + 文件头修改"
+    }
+  },
+  {
+    "id": 93,
+    "name": "不奇怪的二维码",
+    "description": "一扫就出 flag 的二维码，简直白给\n",
+    "category": ["Week4", "Misc"],
+    "tags": ["简单"],
+    "author": "Coldwinds",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{1_1ik3_p1aying_Min3craft}",
+    "difficulty": 1,
+    "hints": ["沙盒游戏存档"]
+  },
+  {
+    "id": 94,
+    "name": "还是流量分析",
+    "description": "救赎之道，就在其中。\n\nFlag 格式：`flag{WebShell-Key值_机密文件内容}`\n\n例如：`flag{d8ff731bdba84bf5_sercet}`\n\nP.S. 请注意 Key 值并非密码！\n",
+    "category": ["Week4", "Misc"],
+    "tags": ["简单"],
+    "author": "烨",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{421eb7f1b8e4b3cf_Godzilla1sS000Int3rEstIng}",
+    "difficulty": 1,
+    "extra": {
+      "knowledge": "哥斯拉流量分析"
+    }
+  },
+  {
+    "id": 95,
+    "name": "代数关系",
+    "description": "不要着急算数哦, 先探究一下各个变量之间的关系叭\n",
+    "category": ["Week4", "Crypto"],
+    "tags": ["困难"],
+    "author": "Sias27",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{a1g3br4ic_re1at1on_i5_us3ful}",
+    "difficulty": 3,
+    "hints": ["考虑一下 e1d1 = e2d2 (mod phi)"],
+    "extra": {
+      "knowledge": "RSA e, d 关系的进一步考察"
+    }
+  },
+  {
+    "id": 96,
+    "name": "移位与异或",
+    "description": "我设计了一个加密算法, 你能帮我设计它的解密算法吗\n",
+    "category": ["Week4", "Crypto"],
+    "tags": ["中等"],
+    "author": "Sias27",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{wow_wow_wow_you_solved_my_encryption}",
+    "difficulty": 2,
+    "extra": {
+      "knowledge": "Shift+xor 加密"
+    }
+  },
+  {
+    "id": 97,
+    "name": "LCG Revenge",
+    "description": "LCG, 但是三阶\n",
+    "category": ["Week4", "Crypto"],
+    "tags": ["简单"],
+    "author": "Sias27",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{try_some_linear_algebra_technique}",
+    "difficulty": 1,
+    "extra": {
+      "knowledge": "三阶 LCG"
+    }
+  },
+  {
+    "id": 98,
+    "name": "Demolition Trucks",
+    "description": "卖 flag 辣，只要你给钱，我就给你 flag\n\n`nc 124.221.212.109 10003`\n",
+    "category": ["Week4", "Blockchain"],
+    "tags": ["中等"],
+    "author": "Coldwinds",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{1t_1s_a_pl3asant_c00p3rati0n}",
+    "difficulty": 2,
+    "hints": ["有一种强制转账的方法……"],
+    "extra": {
+      "knowledge": "自毁函数强制转账"
+    }
+  },
+  {
+    "id": 99,
+    "name": "baby bank",
+    "description": "简单的重入攻击\n\n`nc 124.221.212.109 10004`\n",
+    "category": ["Week4", "Blockchain"],
+    "tags": ["中等"],
+    "author": "Coldwinds",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{Y0u_ar3_r0bbing_th3_bank}",
+    "difficulty": 2,
+    "extra": {
+      "knowledge": "重入攻击"
+    }
+  },
+  {
+    "id": 100,
+    "name": "N&O&R",
+    "description": "简单的单点渗透题，请提交内网服务器的 `proof.txt` 文件内容作为 flag\n\n`http://1.14.76.220/`\n",
+    "category": ["Week4", "Pentest"],
+    "tags": ["中等"],
+    "author": "glzjin",
+    "attachments": [],
+    "services": [],
+    "flag": "DASCTF{63106242635507625084870339258364}",
+    "difficulty": 2,
+    "extra": {
+      "knowledge": "信息收集，内网代理"
+    }
+  },
+  {
+    "id": 101,
+    "name": "BabySSTI_Three",
+    "description": "Python SSTI 模板注入漏洞系列第三题\n",
+    "category": ["Week5", "Web"],
+    "tags": ["简单"],
+    "author": "烨",
+    "attachments": [],
+    "services": [],
+    "flag": null,
+    "difficulty": 1,
+    "extra": {
+      "knowledge": "Python SSTI"
+    }
+  },
+  {
+    "id": 102,
+    "name": "Unsafe Apache",
+    "description": "Check In And The End!\n",
+    "category": ["Week5", "Web"],
+    "tags": ["简单"],
+    "author": "烨",
+    "attachments": [],
+    "services": [],
+    "flag": null,
+    "difficulty": 1,
+    "extra": {
+      "knowledge": "CVE-2021-42013"
+    }
+  },
+  {
+    "id": 103,
+    "name": "So Baby RCE Again",
+    "description": "RCE Me\n",
+    "category": ["Week5", "Web"],
+    "tags": ["简单"],
+    "author": "烨",
+    "attachments": [],
+    "services": [],
+    "flag": null,
+    "difficulty": 1,
+    "hints": ["SUID"],
+    "extra": {
+      "knowledge": "无回显 RCE，SUID 提权"
+    }
+  },
+  {
+    "id": 104,
+    "name": "Final round",
+    "description": "啊呜，好困呜呜～～～\n",
+    "category": ["Week5", "Web"],
+    "tags": ["中等"],
+    "author": "J1an",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{Ju2t_let_me_s1eep_f0r_a_whi1e}",
+    "difficulty": 2,
+    "extra": {
+      "knowledge": "SQL 时间盲注"
+    }
+  },
+  {
+    "id": 105,
+    "name": "Give me your photo PLZ",
+    "description": "我好想看一些好康的图片呜呜\n",
+    "category": ["Week5", "Web"],
+    "tags": ["简单"],
+    "author": "J1an",
+    "attachments": [],
+    "services": [],
+    "flag": null,
+    "difficulty": 1,
+    "extra": {
+      "knowledge": "`.htaccess` 文件上传"
+    }
+  },
+  {
+    "id": 106,
+    "name": "leak me plz",
+    "description": "Write to read\n",
+    "category": ["Week5", "Pwn"],
+    "tags": ["简单"],
+    "author": "Nightu",
+    "attachments": [],
+    "services": [],
+    "flag": null,
+    "difficulty": 1,
+    "hints": ["Stdout leak"],
+    "extra": {
+      "knowledge": "Stdout leak"
+    }
+  },
+  {
+    "id": 107,
+    "name": "orw me plz",
+    "description": "Write to orw\n",
+    "category": ["Week5", "Pwn"],
+    "tags": ["中等"],
+    "author": "Nightu",
+    "attachments": [],
+    "services": [],
+    "flag": null,
+    "difficulty": 2,
+    "hints": ["exit 的俩 \"hook\" 的 rdi 是同一个地址"],
+    "extra": {
+      "knowledge": "orw"
+    }
+  },
+  {
+    "id": 108,
+    "name": "code me plz",
+    "description": "Code to orw\n",
+    "category": ["Week5", "Pwn"],
+    "tags": ["中等"],
+    "author": "Nightu",
+    "attachments": [],
+    "services": [],
+    "flag": null,
+    "difficulty": 2,
+    "hints": ["X32 ABI"],
+    "extra": {
+      "knowledge": "Shellcode, Seccomp"
+    }
+  },
+  {
+    "id": 109,
+    "name": "overflow me plz",
+    "description": "Overflow to rce\n",
+    "category": ["Week5", "Pwn"],
+    "tags": ["简单"],
+    "author": "Nightu",
+    "attachments": [],
+    "services": [],
+    "flag": null,
+    "difficulty": 1,
+    "hints": ["栈迁移后 Ret2csu"],
+    "extra": {
+      "knowledge": "ret2csu"
+    }
+  },
+  {
+    "id": 110,
+    "name": "Farewell",
+    "description": "结束辣，简单告个别吧\n",
+    "category": ["Week5", "Pwn"],
+    "tags": ["简单"],
+    "author": "Nightu",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{Monit0r_is_intended&thx_4_playing_my_chals}",
+    "difficulty": 1,
+    "hints": ["启动脚本有东西少了 =。="],
+    "extra": {
+      "knowledge": "Qemu Monitor"
+    }
+  },
+  {
+    "id": 111,
+    "name": "E4sy_Mix",
+    "description": "FallW1nd 好像把 Gift1a 正在出的题玩坏了，但是却可以正确运行，这是为什么捏\n",
+    "category": ["Week5", "Reverse"],
+    "tags": ["困难"],
+    "author": "Gift1a",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{RC4_and_SMC_is_interesting!}",
+    "difficulty": 3,
+    "hints": ["https://www.anquanke.com/post/id/238645#h3-2"],
+    "extra": {
+      "knowledge": "TLS、SMC、简单反调试、RC4"
+    }
+  },
+  {
+    "id": 112,
+    "name": "babycode",
+    "description": "Compile me, Crack me\n",
+    "category": ["Week5", "Reverse"],
+    "tags": ["中等"],
+    "author": "Lu1u",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{Hacking_for_fun@reverser$!}",
+    "difficulty": 2,
+    "extra": {
+      "knowledge": "llvm 中间代码，魔改 base 和 rc4"
+    }
+  },
+  {
+    "id": 113,
+    "name": "Virtual Self",
+    "description": "As I live in self, you are in the code\n",
+    "category": ["Week5", "Reverse"],
+    "tags": ["中等"],
+    "author": "FallW1nd",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{Will_you_see_the_light?}",
+    "difficulty": 2,
+    "extra": {
+      "knowledge": "只有简单运算的 vm"
+    }
+  },
+  {
+    "id": 114,
+    "name": "Petals Level Up",
+    "description": "相信的心就是你的魔法\n",
+    "category": ["Week5", "Reverse"],
+    "tags": ["简单"],
+    "author": "FallW1nd",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{d5658c0b4c44d4672d76b563a8505a66}",
+    "difficulty": 1,
+    "extra": {
+      "knowledge": "使用间接 + 相对寻址的 jmp r?x 花指令"
+    }
+  },
+  {
+    "id": 115,
+    "name": "拔丝溜肆",
+    "description": "变来变去，嘶溜嘶溜\n",
+    "category": ["Week5", "Reverse"],
+    "tags": ["简单"],
+    "author": "Gift1a",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{12573882-1CF1-EB5E-C965-035B1F263C38}",
+    "difficulty": 1,
+    "extra": {
+      "knowledge": "变表 Base64"
+    }
+  },
+  {
+    "id": 116,
+    "name": "qsdz's girlfriend 5",
+    "description": "这是一个之前的彩蛋题合并的题目捏\n",
+    "category": ["Week5", "Misc"],
+    "tags": ["中等"],
+    "author": "qsdz",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{W3lc0me_tO_be_NewSt@rs!}",
+    "difficulty": 2,
+    "hints": ["什么年代了还在用传统脚本啊？还不快去 Github 上找赛博脚本？"],
+    "extra": {
+      "knowledge": "Base 家族，NTFS 数据流隐写，stegseek"
+    }
+  },
+  {
+    "id": 117,
+    "name": "Yesec no drumsticks 5",
+    "description": "你会用 Git 吗？不止你眼前看到的这么简单哦~\n",
+    "category": ["Week5", "Misc"],
+    "tags": ["简单"],
+    "author": "qsdz",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{Yesec#1s#c@ibi}",
+    "difficulty": 1,
+    "hints": ["Git 是代码版本管理工具，我可以看看旧版本吗？欸？好像 Git 不止工作区……"],
+    "extra": {
+      "knowledge": "git stash"
+    }
+  },
+  {
+    "id": 118,
+    "name": "奇怪的文本",
+    "description": "J1an 师傅写的情书，我是没看懂，难怪他单身\n",
+    "category": ["Week5", "Misc"],
+    "tags": ["简单"],
+    "author": "烨",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{S0B48yCA}",
+    "difficulty": 1,
+    "extra": {
+      "knowledge": "字频分析"
+    }
+  },
+  {
+    "id": 119,
+    "name": "奇怪的 PDF 2",
+    "description": "好像不是 pdf，好像又是 pdf，难道说它真是 pdf？\n\n与奇怪的 PDF 无关\n",
+    "category": ["Week5", "Misc"],
+    "tags": ["困难"],
+    "author": "Coldwinds",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{It_1s_a_fak3_but_r3al_PDF}",
+    "difficulty": 3
+  },
+  {
+    "id": 120,
+    "name": "最后的流量分析",
+    "description": "So Easy！分析出黑客获取的机密文件内容！\n",
+    "category": ["Week5", "Misc"],
+    "tags": ["简单"],
+    "author": "烨",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{c84bb04a-8663-4ee2-9449-349f1ee83e11}",
+    "difficulty": 1,
+    "extra": {
+      "knowledge": "SQL 注入流量分析"
+    }
+  },
+  {
+    "id": 121,
+    "name": "12bubu_pixel",
+    "description": "12 和布布很可爱不是吗？（所以耐心等待一下哦）\n",
+    "category": ["Week5", "Misc"],
+    "tags": ["困难"],
+    "author": "Sycamore",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{how_about_ansi_and_running_pixel}",
+    "difficulty": 3,
+    "hints": ["ANSI 转义字符是什么捏？", "找不同而已"],
+    "extra": {
+      "knowledge": "ANSI 转义字符，像素点"
+    }
+  },
+  {
+    "id": 122,
+    "name": "An der schönen Elliptische Kurve",
+    "description": "一起沿着椭圆曲线跳支舞吧\n",
+    "category": ["Week5", "Crypto"],
+    "tags": ["困难"],
+    "author": "Sias27",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{ell1ptic_curv3_i5_be4ut1ful_right#4DF17ABE}",
+    "difficulty": 3,
+    "hints": ["百度「椭圆曲线密码学」，请（"],
+    "extra": {
+      "knowledge": "椭圆曲线密钥交换"
+    }
+  },
+  {
+    "id": 123,
+    "name": "flip-flop",
+    "description": "AES-CBC 模式真是太棒了\n",
+    "category": ["Week5", "Crypto"],
+    "tags": ["中等"],
+    "author": "Sias27",
+    "attachments": [],
+    "services": [],
+    "flag": "flag{filp_the_word!!!!!!!!}",
+    "difficulty": 2,
+    "hints": ["AES 的 CBC 模式下 IV 是怎么作用的呢"],
+    "extra": {
+      "knowledge": "AES-CBC 字节翻转攻击"
+    }
+  }
+]
