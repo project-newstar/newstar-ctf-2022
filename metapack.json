@@ -922,7 +922,8 @@
         "image": "docker.io/openctf/newstar-2022:ezapi_db",
         "environment": {
           "POSTGRES_PASSWORD": "NewStarCTF1sG00d"
-        }
+        },
+        "hosts": ["postgres"]
       },
       {
         "name": "graphql",
@@ -932,7 +933,8 @@
           "HASURA_GRAPHQL_ENABLE_CONSOLE": "true",
           "HASURA_GRAPHQL_ENABLED_LOG_TYPES": "startup, http-log, webhook-log, websocket-log, query-log"
         },
-        "depends_on": "postgres"
+        "hosts": ["graphql"],
+        "depends_on": ["postgres"]
       },
       {
         "image": "docker.io/openctf/newstar-2022:ezapi_web",
@@ -942,7 +944,7 @@
             "type": "http"
           }
         ],
-        "depends_on": "graphql"
+        "depends_on": ["graphql"]
       }
     ],
     "answer": "flag{4a902c8e-a8b5-ecfb-bee3-d6419865647c}",
