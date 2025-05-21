@@ -177,7 +177,20 @@
     "tags": ["签到"],
     "author": "woodwhale",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-1/pwn"],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week1_calc",
+        "exposes": [
+          {
+            "port": 12001,
+            "type": "tcp"
+          }
+        ],
+        "environment": {
+          "FLAG": null
+        }
+      }
+    ],
     "answer": null,
     "difficulty": 0,
     "extra": {
@@ -194,7 +207,20 @@
     "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-1/fallw1nds_gift.zip"
     ],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week1_fallw1nd_gift",
+        "exposes": [
+          {
+            "port": 9999,
+            "type": "tcp"
+          }
+        ],
+        "environment": {
+          "FLAG": null
+        }
+      }
+    ],
     "answer": null,
     "difficulty": 0,
     "hints": ["https://www.cxyzjd.com/article/prettyX/107404509"],
@@ -210,7 +236,20 @@
     "tags": ["签到"],
     "author": "Nightu",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-1/ret2libc.zip"],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week1_ret2libc",
+        "exposes": [
+          {
+            "port": 12003,
+            "type": "tcp"
+          }
+        ],
+        "environment": {
+          "FLAG": null
+        }
+      }
+    ],
     "answer": null,
     "difficulty": 0,
     "hints": ["https://ctf-wiki.org/pwn/linux/user-mode/stackoverflow/x86/basic-rop/"],
@@ -228,7 +267,20 @@
     "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-1/ret2shellcode.zip"
     ],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week1_ret2shellcode",
+        "exposes": [
+          {
+            "port": 12002,
+            "type": "tcp"
+          }
+        ],
+        "environment": {
+          "FLAG": null
+        }
+      }
+    ],
     "answer": null,
     "difficulty": 0,
     "hints": ["https://ctf-wiki.org/pwn/linux/user-mode/stackoverflow/x86/basic-rop/"],
@@ -244,7 +296,20 @@
     "tags": ["签到"],
     "author": "Nightu",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-1/ret2text.zip"],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week1_ret2text",
+        "exposes": [
+          {
+            "port": 12001,
+            "type": "tcp"
+          }
+        ],
+        "environment": {
+          "FLAG": null
+        }
+      }
+    ],
     "answer": null,
     "difficulty": 0,
     "hints": ["https://ctf-wiki.org/pwn/linux/user-mode/stackoverflow/x86/basic-rop/"],
@@ -336,7 +401,17 @@
     "tags": ["签到"],
     "author": "烨",
     "attachments": [],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week1_thankyou",
+        "exposes": [
+          {
+            "port": 80,
+            "type": "http"
+          }
+        ]
+      }
+    ],
     "answer": "flag{Th1s_Is_s000_e4sy_d0_y00u_th1nk_so?}",
     "difficulty": 0,
     "extra": {
@@ -351,7 +426,20 @@
     "tags": ["签到"],
     "author": "烨",
     "attachments": [],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week1_header",
+        "exposes": [
+          {
+            "port": 80,
+            "type": "http"
+          }
+        ],
+        "environment": {
+          "FLAG": null
+        }
+      }
+    ],
     "answer": null,
     "difficulty": 0,
     "hints": ["https://blog.csdn.net/weixin_51735061/article/details/123647266"],
@@ -367,7 +455,20 @@
     "tags": ["签到"],
     "author": "烨",
     "attachments": [],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week1_http",
+        "exposes": [
+          {
+            "port": 80,
+            "type": "http"
+          }
+        ],
+        "environment": {
+          "FLAG": null
+        }
+      }
+    ],
     "answer": null,
     "difficulty": 0,
     "extra": {
@@ -382,7 +483,17 @@
     "tags": ["签到"],
     "author": "J1an",
     "attachments": [],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week1_word-for-you-1",
+        "exposes": [
+          {
+            "port": 80,
+            "type": "http"
+          }
+        ]
+      }
+    ],
     "answer": "flag{Th1s_is_0_simp1e_S0L_test}",
     "difficulty": 0,
     "hints": ["https://ctf-wiki.org/web/sqli/"],
@@ -398,7 +509,20 @@
     "tags": ["简单"],
     "author": "烨",
     "attachments": [],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week1_notphp",
+        "exposes": [
+          {
+            "port": 80,
+            "type": "http"
+          }
+        ],
+        "environment": {
+          "FLAG": null
+        }
+      }
+    ],
     "answer": null,
     "difficulty": 1,
     "extra": {
@@ -577,7 +701,17 @@
     "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-2/buffer_fly.zip"
     ],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week2_buffer-fly",
+        "exposes": [
+          {
+            "port": 9999,
+            "type": "tcp"
+          }
+        ]
+      }
+    ],
     "answer": "flag{b3c0me_4_butt3rf1y}",
     "difficulty": 1,
     "extra": {
@@ -594,7 +728,20 @@
     "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-2/shellcode_revenge.zip"
     ],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week2_shellcode-revenge",
+        "exposes": [
+          {
+            "port": 12011,
+            "type": "tcp"
+          }
+        ],
+        "environment": {
+          "FLAG": null
+        }
+      }
+    ],
     "answer": null,
     "difficulty": 1,
     "hints": ["https://chromium.googlesource.com/chromiumos/docs/+/HEAD/constants/syscalls.md"],
@@ -605,12 +752,25 @@
   {
     "id": 38,
     "name": "uint32 and ret",
-    "description": "\n",
+    "description": "",
     "category": ["Week2", "Pwn"],
     "tags": ["简单"],
     "author": "eeee",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-2/uint"],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week2_uint32_ret",
+        "exposes": [
+          {
+            "port": 9999,
+            "type": "tcp"
+          }
+        ],
+        "environment": {
+          "FLAG": null
+        }
+      }
+    ],
     "answer": null,
     "difficulty": 1,
     "extra": {
@@ -627,7 +787,20 @@
     "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-2/attachment.zip"
     ],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week2_kanyidao",
+        "exposes": [
+          {
+            "port": 9999,
+            "type": "tcp"
+          }
+        ],
+        "environment": {
+          "FLAG": null
+        }
+      }
+    ],
     "answer": null,
     "difficulty": 2,
     "hints": ["https://ctf-wiki.org/pwn/linux/user-mode/fmtstr/fmtstr-exploit/"],
@@ -725,7 +898,9 @@
       {
         "name": "postgres",
         "image": "docker.io/openctf/newstar-2022:ezapi_db",
-        "environment": { "POSTGRES_PASSWORD": "NewStarCTF1sG00d" }
+        "environment": {
+          "POSTGRES_PASSWORD": "NewStarCTF1sG00d"
+        }
       },
       {
         "name": "graphql",
@@ -763,7 +938,20 @@
     "tags": ["简单"],
     "author": "烨",
     "attachments": [],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week2_include-1",
+        "exposes": [
+          {
+            "port": 80,
+            "type": "http"
+          }
+        ],
+        "environment": {
+          "FLAG": null
+        }
+      }
+    ],
     "answer": null,
     "difficulty": 1,
     "hints": ["https://www.openwall.com/php_mt_seed/"],
@@ -779,7 +967,20 @@
     "tags": ["简单"],
     "author": "烨",
     "attachments": [],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week2_unserialize-1",
+        "exposes": [
+          {
+            "port": 80,
+            "type": "http"
+          }
+        ],
+        "environment": {
+          "FLAG": null
+        }
+      }
+    ],
     "answer": null,
     "difficulty": 1,
     "hints": ["https://zhuanlan.zhihu.com/p/377676274"],
@@ -795,7 +996,17 @@
     "tags": ["简单"],
     "author": "J1an",
     "attachments": [],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week2_word-for-you-2",
+        "exposes": [
+          {
+            "port": 80,
+            "type": "http"
+          }
+        ]
+      }
+    ],
     "answer": "flag{Ju4t_m2ke_some_err0rs}",
     "difficulty": 1,
     "extra": {
@@ -942,7 +1153,20 @@
     "tags": ["简单"],
     "author": "qsdz",
     "attachments": [],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week3_girlfriend3",
+        "exposes": [
+          {
+            "port": 22,
+            "type": "tcp"
+          }
+        ],
+        "environment": {
+          "FLAG": null
+        }
+      }
+    ],
     "answer": null,
     "difficulty": 1,
     "hints": [
@@ -1018,7 +1242,20 @@
     "tags": ["简单"],
     "author": "Coldwinds",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-3/pwn"],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week3_catflag",
+        "exposes": [
+          {
+            "port": 9999,
+            "type": "tcp"
+          }
+        ],
+        "environment": {
+          "FLAG": null
+        }
+      }
+    ],
     "answer": null,
     "difficulty": 1,
     "hints": ["程序在 cat file 前会小睡一会，如果能在这时 change filename 的话……"],
@@ -1034,7 +1271,20 @@
     "tags": ["简单"],
     "author": "Nightu",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-3/ReadWrite.zip"],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week3_readwrite",
+        "exposes": [
+          {
+            "port": 8802,
+            "type": "tcp"
+          }
+        ],
+        "environment": {
+          "FLAG": null
+        }
+      }
+    ],
     "answer": null,
     "difficulty": 1,
     "hints": ["小朋友们，你们有过数组下标写过头被麻麻骂一下午的经历吗"],
@@ -1050,7 +1300,20 @@
     "tags": ["简单"],
     "author": "woodwhale",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-3/sheep_a_flag"],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week3_sheep_a_flag",
+        "exposes": [
+          {
+            "port": 12001,
+            "type": "tcp"
+          }
+        ],
+        "environment": {
+          "FLAG": null
+        }
+      }
+    ],
     "answer": null,
     "difficulty": 1,
     "hints": ["迷宫 DFS、BFS、回溯，fmtstr_payload"],
@@ -1066,7 +1329,20 @@
     "tags": ["中等"],
     "author": "Nightu",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-3/ret2csu1.zip"],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week3_ret2csu1",
+        "exposes": [
+          {
+            "port": 8801,
+            "type": "tcp"
+          }
+        ],
+        "environment": {
+          "FLAG": null
+        }
+      }
+    ],
     "answer": null,
     "difficulty": 2,
     "hints": ["execve 的三个参数是什么意思 QwQ，果然我还是看看文档比较好吧"],
@@ -1161,7 +1437,20 @@
     "tags": ["简单"],
     "author": "烨",
     "attachments": [],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week3_babyssti-1",
+        "exposes": [
+          {
+            "port": 8080,
+            "type": "http"
+          }
+        ],
+        "environment": {
+          "FLAG": null
+        }
+      }
+    ],
     "answer": null,
     "difficulty": 1,
     "extra": {
@@ -1176,7 +1465,20 @@
     "tags": ["简单"],
     "author": "烨",
     "attachments": [],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week3_include-2",
+        "exposes": [
+          {
+            "port": 80,
+            "type": "http"
+          }
+        ],
+        "environment": {
+          "FLAG": null
+        }
+      }
+    ],
     "answer": null,
     "difficulty": 1,
     "extra": {
@@ -1191,7 +1493,20 @@
     "tags": ["简单"],
     "author": "J1an",
     "attachments": [],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week3_think_more",
+        "exposes": [
+          {
+            "port": 80,
+            "type": "http"
+          }
+        ],
+        "environment": {
+          "FLAG": null
+        }
+      }
+    ],
     "answer": null,
     "difficulty": 1,
     "hints": ["看看 Cookie ThinkPHP 5 框架反序列化 RCE"],
@@ -1207,7 +1522,17 @@
     "tags": ["简单"],
     "author": "J1an",
     "attachments": [],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week3_multisql",
+        "exposes": [
+          {
+            "port": 80,
+            "type": "http"
+          }
+        ]
+      }
+    ],
     "answer": "flag{Ju3t_use_mo2e_t2en_0ne_SQL}",
     "difficulty": 1,
     "hints": ["堆叠注入，update 更改"],
@@ -1406,7 +1731,20 @@
     "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/IsThisHeap2.zip"
     ],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week4_heap2",
+        "exposes": [
+          {
+            "port": 8804,
+            "type": "tcp"
+          }
+        ],
+        "environment": {
+          "FLAG": null
+        }
+      }
+    ],
     "answer": null,
     "difficulty": 0,
     "hints": ["_IO_FILE 利用，一次打 stdout leak libc，一次打 stdout 在 puts 时控制执行流"],
@@ -1422,7 +1760,20 @@
     "tags": ["简单"],
     "author": "予柒",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/canary.zip"],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week4_canary",
+        "exposes": [
+          {
+            "port": 8801,
+            "type": "tcp"
+          }
+        ],
+        "environment": {
+          "FLAG": null
+        }
+      }
+    ],
     "answer": null,
     "difficulty": 1,
     "hints": ["格式化字符串可以泄露栈上内容和任一地址改"],
@@ -1440,7 +1791,20 @@
     "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/IsThisHeap.zip"
     ],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week4_heap1",
+        "exposes": [
+          {
+            "port": 8803,
+            "type": "tcp"
+          }
+        ],
+        "environment": {
+          "FLAG": null
+        }
+      }
+    ],
     "answer": null,
     "difficulty": 2,
     "hints": ["对下标的检测怎么只检测一半啊 =。=\n\n程序中有个指向自己的指针，可以完成任意读写 XD"],
@@ -1456,7 +1820,20 @@
     "tags": ["中等"],
     "author": "Nightu",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/pwn"],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week4_ohmyshellcode",
+        "exposes": [
+          {
+            "port": 8802,
+            "type": "tcp"
+          }
+        ],
+        "environment": {
+          "FLAG": null
+        }
+      }
+    ],
     "answer": null,
     "difficulty": 2,
     "hints": ["非预期：检测范围并不完整 XD\n\n预期：好像只有读入的时候有限制哦，想办法运行时修改 shellcode 试试呢"],
@@ -1472,7 +1849,20 @@
     "tags": ["中等"],
     "author": "Nightu",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/ret2csu2.zip"],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week4_ret2csu2",
+        "exposes": [
+          {
+            "port": 8801,
+            "type": "tcp"
+          }
+        ],
+        "environment": {
+          "FLAG": null
+        }
+      }
+    ],
     "answer": null,
     "difficulty": 2,
     "hints": ["首先要栈迁移啦，然后这个 mprotect 不用真的没关系嘛"],
@@ -1488,7 +1878,17 @@
     "tags": ["困难"],
     "author": "Nightu",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/KMario.7z"],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week4_kmairo",
+        "exposes": [
+          {
+            "port": 8888,
+            "type": "tcp"
+          }
+        ]
+      }
+    ],
     "answer": "flag{Mario_int0_th3_pip3_6ad0973b66df}",
     "difficulty": 3,
     "hints": ["Github 原 PoC 哦，搜索一下 diff 文件也许就能知道是哪个 CVE 啦"],
@@ -1585,7 +1985,20 @@
     "tags": ["简单"],
     "author": "烨",
     "attachments": [],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week4_babyssti-2",
+        "exposes": [
+          {
+            "port": 8080,
+            "type": "http"
+          }
+        ],
+        "environment": {
+          "FLAG": null
+        }
+      }
+    ],
     "answer": null,
     "difficulty": 1,
     "extra": {
@@ -1602,7 +2015,20 @@
     "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/Remo_0.0.1_SNAPSHOT.jar"
     ],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week4_rome",
+        "exposes": [
+          {
+            "port": 8080,
+            "type": "http"
+          }
+        ],
+        "environment": {
+          "FLAG": null
+        }
+      }
+    ],
     "answer": null,
     "difficulty": 1,
     "extra": {
@@ -1617,7 +2043,20 @@
     "tags": ["简单"],
     "author": "JackPot",
     "attachments": [],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week4_sobabyrce",
+        "exposes": [
+          {
+            "port": 80,
+            "type": "http"
+          }
+        ],
+        "environment": {
+          "FLAG": null
+        }
+      }
+    ],
     "answer": null,
     "difficulty": 1,
     "extra": {
@@ -1632,7 +2071,20 @@
     "tags": ["简单"],
     "author": "烨",
     "attachments": [],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week4_unserialize-3",
+        "exposes": [
+          {
+            "port": 80,
+            "type": "http"
+          }
+        ],
+        "environment": {
+          "FLAG": null
+        }
+      }
+    ],
     "answer": null,
     "difficulty": 1,
     "extra": {
@@ -1647,7 +2099,17 @@
     "tags": ["中等"],
     "author": "J1an",
     "attachments": [],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week4_word-for-you-3",
+        "exposes": [
+          {
+            "port": 80,
+            "type": "http"
+          }
+        ]
+      }
+    ],
     "answer": "flag{We_0nly_have_2wo_choices}",
     "difficulty": 2,
     "extra": {
@@ -1662,7 +2124,17 @@
     "tags": ["中等"],
     "author": "Sias27",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-5/flip_flop.zip"],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week5_flip-flop",
+        "exposes": [
+          {
+            "port": 8801,
+            "type": "tcp"
+          }
+        ]
+      }
+    ],
     "answer": "flag{filp_the_word!!!!!!!!}",
     "difficulty": 2,
     "hints": ["AES 的 CBC 模式下 IV 是怎么作用的呢"],
@@ -1762,7 +2234,17 @@
     "tags": ["困难"],
     "author": "Sycamore",
     "attachments": [],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week5_12bubu_pixel",
+        "exposes": [
+          {
+            "port": 9999,
+            "type": "tcp"
+          }
+        ]
+      }
+    ],
     "answer": "flag{how_about_ansi_and_running_pixel}",
     "difficulty": 3,
     "hints": ["ANSI 转义字符是什么捏？", "找不同而已"],
@@ -1790,7 +2272,17 @@
     "tags": ["简单"],
     "author": "Nightu",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-5/Farewell.zip"],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week5_farewell",
+        "exposes": [
+          {
+            "port": 8888,
+            "type": "tcp"
+          }
+        ]
+      }
+    ],
     "answer": "flag{Monit0r_is_intended&thx_4_playing_my_chals}",
     "difficulty": 1,
     "hints": ["启动脚本有东西少了 =。="],
@@ -1806,7 +2298,20 @@
     "tags": ["简单"],
     "author": "Nightu",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-5/leak.zip"],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week5_leak",
+        "exposes": [
+          {
+            "port": 8803,
+            "type": "tcp"
+          }
+        ],
+        "environment": {
+          "FLAG": null
+        }
+      }
+    ],
     "answer": null,
     "difficulty": 1,
     "hints": ["Stdout leak"],
@@ -1822,7 +2327,20 @@
     "tags": ["简单"],
     "author": "Nightu",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-5/overflow.zip"],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week5_overflow",
+        "exposes": [
+          {
+            "port": 8802,
+            "type": "tcp"
+          }
+        ],
+        "environment": {
+          "FLAG": null
+        }
+      }
+    ],
     "answer": null,
     "difficulty": 1,
     "hints": ["栈迁移后 Ret2csu"],
@@ -1838,7 +2356,20 @@
     "tags": ["中等"],
     "author": "Nightu",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-5/cod3"],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week5_code",
+        "exposes": [
+          {
+            "port": 8801,
+            "type": "tcp"
+          }
+        ],
+        "environment": {
+          "FLAG": null
+        }
+      }
+    ],
     "answer": null,
     "difficulty": 2,
     "hints": ["X32 ABI"],
@@ -1854,7 +2385,20 @@
     "tags": ["中等"],
     "author": "Nightu",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-5/orw.zip"],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week5_orw",
+        "exposes": [
+          {
+            "port": 8805,
+            "type": "tcp"
+          }
+        ],
+        "environment": {
+          "FLAG": null
+        }
+      }
+    ],
     "answer": null,
     "difficulty": 2,
     "hints": ["exit 的俩 \"hook\" 的 rdi 是同一个地址"],
@@ -1952,7 +2496,20 @@
     "tags": ["简单"],
     "author": "烨",
     "attachments": [],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week5_babyssti-3",
+        "exposes": [
+          {
+            "port": 8080,
+            "type": "http"
+          }
+        ],
+        "environment": {
+          "FLAG": null
+        }
+      }
+    ],
     "answer": null,
     "difficulty": 1,
     "extra": {
@@ -1967,7 +2524,20 @@
     "tags": ["简单"],
     "author": "J1an",
     "attachments": [],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week5_upload_photo",
+        "exposes": [
+          {
+            "port": 80,
+            "type": "http"
+          }
+        ],
+        "environment": {
+          "FLAG": null
+        }
+      }
+    ],
     "answer": null,
     "difficulty": 1,
     "extra": {
@@ -1982,7 +2552,20 @@
     "tags": ["简单"],
     "author": "烨",
     "attachments": [],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week5_sobabyrce2",
+        "exposes": [
+          {
+            "port": 80,
+            "type": "http"
+          }
+        ],
+        "environment": {
+          "FLAG": null
+        }
+      }
+    ],
     "answer": null,
     "difficulty": 1,
     "hints": ["SUID"],
@@ -1998,7 +2581,20 @@
     "tags": ["简单"],
     "author": "烨",
     "attachments": [],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week5_unsafe_apache",
+        "exposes": [
+          {
+            "port": 80,
+            "type": "http"
+          }
+        ],
+        "environment": {
+          "FLAG": null
+        }
+      }
+    ],
     "answer": null,
     "difficulty": 1,
     "extra": {
@@ -2013,7 +2609,17 @@
     "tags": ["中等"],
     "author": "J1an",
     "attachments": [],
-    "services": [],
+    "services": [
+      {
+        "image": "docker.io/openctf/newstar-2022:week5_word-for-you-4",
+        "exposes": [
+          {
+            "port": 80,
+            "type": "http"
+          }
+        ]
+      }
+    ],
     "answer": "flag{Ju2t_let_me_s1eep_f0r_a_whi1e}",
     "difficulty": 2,
     "extra": {
