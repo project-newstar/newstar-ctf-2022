@@ -10,7 +10,7 @@
       "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-1/ciphertext.5582361f.txt"
     ],
     "services": [],
-    "flag": "flag{bruteforce_is_useful_for_breaking_cipher}",
+    "answer": "flag{bruteforce_is_useful_for_breaking_cipher}",
     "difficulty": 0,
     "extra": {
       "knowledge": "vigenere"
@@ -27,7 +27,7 @@
       "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-1/ciphertext.b000e386.txt"
     ],
     "services": [],
-    "flag": "flag{historical_cipher_is_vulnerable}",
+    "answer": "flag{historical_cipher_is_vulnerable}",
     "difficulty": 0,
     "extra": {
       "knowledge": "凯撒密码"
@@ -42,7 +42,7 @@
     "author": "Sias27",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-1/eazyxor.zip"],
     "services": [],
-    "flag": "flag{x0r_i5_qu1t3_3azy}",
+    "answer": "flag{x0r_i5_qu1t3_3azy}",
     "difficulty": 0,
     "extra": {
       "knowledge": "XOR 加密"
@@ -57,7 +57,7 @@
     "author": "Sycamore",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-1/chaos.py"],
     "services": [],
-    "flag": "flag{ii24nji9-8ckkpil1-5hiev3n6-1u24g07m}",
+    "answer": "flag{ii24nji9-8ckkpil1-5hiev3n6-1u24g07m}",
     "difficulty": 1,
     "hints": [
       "http://www.teleonline.cn/ch/reader/create_pdf.aspx?file_no=201605002&flag=&journal_id=dxjs&year_id=2016"
@@ -75,7 +75,7 @@
     "author": "Dawn_whisper",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-1/RSA_begin.zip"],
     "services": [],
-    "flag": "flag{W0w_U_ar3_re4L1y_g0Od_4t_m4th_4nD_RSA!!}",
+    "answer": "flag{W0w_U_ar3_re4L1y_g0Od_4t_m4th_4nD_RSA!!}",
     "difficulty": 1,
     "extra": {
       "knowledge": "RSA"
@@ -90,7 +90,7 @@
     "author": "Komplize",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-1/Eye.jpg"],
     "services": [],
-    "flag": "flag{L0ok_m3_1n_my_ey3s}",
+    "answer": "flag{L0ok_m3_1n_my_ey3s}",
     "difficulty": 0,
     "extra": {
       "knowledge": "SlientEye"
@@ -107,7 +107,7 @@
       "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-1/Yesec_no_drumsticks_1.zip"
     ],
     "services": [],
-    "flag": "flag{Yesec_1s_lsb}",
+    "answer": "flag{Yesec_1s_lsb}",
     "difficulty": 0,
     "hints": ["https://ctf-wiki.org/misc/picture/png/#lsb"],
     "extra": {
@@ -123,7 +123,7 @@
     "author": "Coldwinds",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-1/audio.zip"],
     "services": [],
-    "flag": "flag{SSTV_and_R0b0t36}",
+    "answer": "flag{SSTV_and_R0b0t36}",
     "difficulty": 1,
     "hints": ["https://zh.wikipedia.org/zh-cn/%E6%85%A2%E6%89%AB%E6%8F%8F%E7%94%B5%E8%A7%86"],
     "extra": {
@@ -139,7 +139,7 @@
     "author": "woodwhale",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-1/EzSnake.jar"],
     "services": [],
-    "flag": "flag{Y0u_4re_0ne_oNe_0nE_st4R}",
+    "answer": "flag{Y0u_4re_0ne_oNe_0nE_st4R}",
     "difficulty": 1,
     "hints": ["https://segmentfault.com/a/1190000012180752"],
     "extra": {
@@ -157,7 +157,7 @@
       "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-1/qsdzs_girlfriend_1.zip"
     ],
     "services": [],
-    "flag": "flag{Hikari_20031201}",
+    "answer": "flag{Hikari_20031201}",
     "difficulty": 1,
     "hints": [
       "https://ctf-wiki.org/misc/archive/zip/#_3",
@@ -178,7 +178,7 @@
     "author": "woodwhale",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-1/pwn"],
     "services": [],
-    "flag": null,
+    "answer": null,
     "difficulty": 0,
     "extra": {
       "knowledge": "nc/pwntools recv send"
@@ -195,7 +195,7 @@
       "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-1/fallw1nds_gift.zip"
     ],
     "services": [],
-    "flag": null,
+    "answer": null,
     "difficulty": 0,
     "hints": ["https://www.cxyzjd.com/article/prettyX/107404509"],
     "extra": {
@@ -211,7 +211,7 @@
     "author": "Nightu",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-1/ret2libc.zip"],
     "services": [],
-    "flag": null,
+    "answer": null,
     "difficulty": 0,
     "hints": ["https://ctf-wiki.org/pwn/linux/user-mode/stackoverflow/x86/basic-rop/"],
     "extra": {
@@ -229,7 +229,7 @@
       "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-1/ret2shellcode.zip"
     ],
     "services": [],
-    "flag": null,
+    "answer": null,
     "difficulty": 0,
     "hints": ["https://ctf-wiki.org/pwn/linux/user-mode/stackoverflow/x86/basic-rop/"],
     "extra": {
@@ -245,7 +245,7 @@
     "author": "Nightu",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-1/ret2text.zip"],
     "services": [],
-    "flag": null,
+    "answer": null,
     "difficulty": 0,
     "hints": ["https://ctf-wiki.org/pwn/linux/user-mode/stackoverflow/x86/basic-rop/"],
     "extra": {
@@ -261,7 +261,7 @@
     "author": "FallW1nd",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-1/app.apk"],
     "services": [],
-    "flag": "flag{Act1v1ty_!s_so00oo0o_Impor#an#}",
+    "answer": "flag{Act1v1ty_!s_so00oo0o_Impor#an#}",
     "difficulty": 0,
     "extra": {
       "knowledge": "Android Activity"
@@ -276,7 +276,7 @@
     "author": "Gift1a",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-1/Init_re"],
     "services": [],
-    "flag": "flag{S0meth1ng_run_bef0re_main!}",
+    "answer": "flag{S0meth1ng_run_bef0re_main!}",
     "difficulty": 0,
     "hints": ["https://Gift1a.github.io/2022/02/03/Init%E5%88%9D%E5%A7%8B%E5%8C%96/?highlight=init"],
     "extra": {
@@ -292,7 +292,7 @@
     "author": "Gift1a",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-1/EasyRe.zip"],
     "services": [],
-    "flag": "flag{Base64_1s_1nterestr1ng!!}",
+    "answer": "flag{Base64_1s_1nterestr1ng!!}",
     "difficulty": 0,
     "extra": {
       "knowledge": "base64+DLL 加载"
@@ -309,7 +309,7 @@
       "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-1/Hello_Reversing.exe"
     ],
     "services": [],
-    "flag": "flag{h3llo_r3vers1ng_w0rld}",
+    "answer": "flag{h3llo_r3vers1ng_w0rld}",
     "difficulty": 0
   },
   {
@@ -321,7 +321,7 @@
     "author": "Gift1a",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-1/pyre.exe"],
     "services": [],
-    "flag": "flag{PYRE_1S_S0_FUN!!!}",
+    "answer": "flag{PYRE_1S_S0_FUN!!!}",
     "difficulty": 0,
     "hints": ["https://www.cnblogs.com/QKSword/p/10540431.html"],
     "extra": {
@@ -337,7 +337,7 @@
     "author": "烨",
     "attachments": [],
     "services": [],
-    "flag": "flag{Th1s_Is_s000_e4sy_d0_y00u_th1nk_so?}",
+    "answer": "flag{Th1s_Is_s000_e4sy_d0_y00u_th1nk_so?}",
     "difficulty": 0,
     "extra": {
       "knowledge": "信息收集、源码泄漏"
@@ -352,7 +352,7 @@
     "author": "烨",
     "attachments": [],
     "services": [],
-    "flag": null,
+    "answer": null,
     "difficulty": 0,
     "hints": ["https://blog.csdn.net/weixin_51735061/article/details/123647266"],
     "extra": {
@@ -368,7 +368,7 @@
     "author": "烨",
     "attachments": [],
     "services": [],
-    "flag": null,
+    "answer": null,
     "difficulty": 0,
     "extra": {
       "knowledge": "HTTP 请求方式"
@@ -383,7 +383,7 @@
     "author": "J1an",
     "attachments": [],
     "services": [],
-    "flag": "flag{Th1s_is_0_simp1e_S0L_test}",
+    "answer": "flag{Th1s_is_0_simp1e_S0L_test}",
     "difficulty": 0,
     "hints": ["https://ctf-wiki.org/web/sqli/"],
     "extra": {
@@ -399,7 +399,7 @@
     "author": "烨",
     "attachments": [],
     "services": [],
-    "flag": null,
+    "answer": null,
     "difficulty": 1,
     "extra": {
       "knowledge": "PHP Trick"
@@ -416,7 +416,7 @@
       "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-2/task.3ea1c8de.py"
     ],
     "services": [],
-    "flag": "flag{lcG_1s_s0_34sy}",
+    "answer": "flag{lcG_1s_s0_34sy}",
     "difficulty": 0,
     "extra": {
       "knowledge": "PRNG"
@@ -431,7 +431,7 @@
     "author": "Cata1yst",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-2/ezRabin.rar"],
     "services": [],
-    "flag": "flag{R4bin_3ncrypti0n_with_3_mod_4_is_two_e4sy}",
+    "answer": "flag{R4bin_3ncrypti0n_with_3_mod_4_is_two_e4sy}",
     "difficulty": 0,
     "extra": {
       "knowledge": "RSA Rabin"
@@ -448,7 +448,7 @@
       "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-2/task.0fcc5f88.py"
     ],
     "services": [],
-    "flag": "flag{c4Nn0t_D3crYpt_buT_r3p34t_Yes}",
+    "answer": "flag{c4Nn0t_D3crYpt_buT_r3p34t_Yes}",
     "difficulty": 0,
     "extra": {
       "knowledge": "明文空间爆破"
@@ -463,7 +463,7 @@
     "author": "Sias27",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-2/Affine.zip"],
     "services": [],
-    "flag": "flag{Kn0wn_p1aint3xt_4ttack}",
+    "answer": "flag{Kn0wn_p1aint3xt_4ttack}",
     "difficulty": 1,
     "extra": {
       "knowledge": "仿射密码 + 已知明文分析"
@@ -480,7 +480,7 @@
       "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-2/unusual_base.zip"
     ],
     "services": [],
-    "flag": "flag{a1ph4bet_c0u1d_be_d1ffi3r3nt}",
+    "answer": "flag{a1ph4bet_c0u1d_be_d1ffi3r3nt}",
     "difficulty": 1,
     "extra": {
       "knowledge": "base64 换表"
@@ -495,7 +495,7 @@
     "author": "Coldwinds",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-2/code.zip"],
     "services": [],
-    "flag": "flag{Aztec_from_Age_0f_Empires}",
+    "answer": "flag{Aztec_from_Age_0f_Empires}",
     "difficulty": 1,
     "extra": {
       "knowledge": "Aztec 码"
@@ -510,7 +510,7 @@
     "author": "Coldwinds",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-2/puzzle.zip"],
     "services": [],
-    "flag": "flag{Y0u_successfu11y_s01ved_the_puzz1e}",
+    "answer": "flag{Y0u_successfu11y_s01ved_the_puzz1e}",
     "difficulty": 1,
     "extra": {
       "knowledge": "montage+gaps 拼图"
@@ -527,7 +527,7 @@
       "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-2/qsdzs_girlfriend_2.zip"
     ],
     "services": [],
-    "flag": "flag{按理说这个点猪也该醒了}",
+    "answer": "flag{按理说这个点猪也该醒了}",
     "difficulty": 1,
     "hints": ["https://zhuanlan.zhihu.com/p/90483213"],
     "extra": {
@@ -545,7 +545,7 @@
       "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-2/Yesec_no_drumsticks_2.zip"
     ],
     "services": [],
-    "flag": "flag{Ingr3d1ent_0F_Yesec_i5_OOOOO}",
+    "answer": "flag{Ingr3d1ent_0F_Yesec_i5_OOOOO}",
     "difficulty": 1,
     "hints": ["https://blog.csdn.net/Hardworking666/article/details/122278638"],
     "extra": {
@@ -561,7 +561,7 @@
     "author": "Coldwinds",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-2/wave.zip"],
     "services": [],
-    "flag": "flag{0010001001100111}",
+    "answer": "flag{0010001001100111}",
     "difficulty": 2,
     "extra": {
       "knowledge": "侧信道"
@@ -578,7 +578,7 @@
       "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-2/buffer_fly.zip"
     ],
     "services": [],
-    "flag": "flag{b3c0me_4_butt3rf1y}",
+    "answer": "flag{b3c0me_4_butt3rf1y}",
     "difficulty": 1,
     "extra": {
       "knowledge": "buffer 初始化，栈溢出，输入输出重定向"
@@ -595,7 +595,7 @@
       "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-2/shellcode_revenge.zip"
     ],
     "services": [],
-    "flag": null,
+    "answer": null,
     "difficulty": 1,
     "hints": ["https://chromium.googlesource.com/chromiumos/docs/+/HEAD/constants/syscalls.md"],
     "extra": {
@@ -611,7 +611,7 @@
     "author": "eeee",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-2/uint"],
     "services": [],
-    "flag": null,
+    "answer": null,
     "difficulty": 1,
     "extra": {
       "knowledge": "整数溢出"
@@ -628,7 +628,7 @@
       "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-2/attachment.zip"
     ],
     "services": [],
-    "flag": null,
+    "answer": null,
     "difficulty": 2,
     "hints": ["https://ctf-wiki.org/pwn/linux/user-mode/fmtstr/fmtstr-exploit/"],
     "extra": {
@@ -644,7 +644,7 @@
     "author": "Lu1u",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-2/task_be.exe"],
     "services": [],
-    "flag": "flag{begin_and_end_re_and_you}",
+    "answer": "flag{begin_and_end_re_and_you}",
     "difficulty": 1,
     "extra": {
       "knowledge": "TLSCALLBACK 函数和 atexit 函数"
@@ -659,7 +659,7 @@
     "author": "Lu1u",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-2/task_time"],
     "services": [],
-    "flag": "flag{D0nt_let_time_bo_so_cheap!}",
+    "answer": "flag{D0nt_let_time_bo_so_cheap!}",
     "difficulty": 1,
     "extra": {
       "knowledge": "交叉引用定位代码逻辑，求解位运算"
@@ -674,7 +674,7 @@
     "author": "Xunflash",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-2/Likemyasp.exe"],
     "services": [],
-    "flag": "flag{x1hu@n_w0_4sp_ma??}",
+    "answer": "flag{x1hu@n_w0_4sp_ma??}",
     "difficulty": 1,
     "hints": ["https://blog.csdn.net/whatday/article/details/99709317"],
     "extra": {
@@ -690,7 +690,7 @@
     "author": "FallW1nd",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-2/Petals"],
     "services": [],
-    "flag": "flag{d780c9b2d2aa9d40010a753bc15770de}",
+    "answer": "flag{d780c9b2d2aa9d40010a753bc15770de}",
     "difficulty": 1,
     "extra": {
       "knowledge": "花指令"
@@ -707,7 +707,7 @@
       "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-2/ur_so_naive.apk"
     ],
     "services": [],
-    "flag": "flag{n@1ve_luv_2you#ouo}",
+    "answer": "flag{n@1ve_luv_2you#ouo}",
     "difficulty": 1,
     "extra": {
       "knowledge": "Android 动态加载 so"
@@ -721,8 +721,34 @@
     "tags": ["简单"],
     "author": "烨",
     "attachments": [],
-    "services": [],
-    "flag": "flag{4a902c8e-a8b5-ecfb-bee3-d6419865647c}",
+    "services": [
+      {
+        "name": "postgres",
+        "image": "docker.io/openctf/newstar-2022:ezapi_db",
+        "environment": { "POSTGRES_PASSWORD": "NewStarCTF1sG00d" }
+      },
+      {
+        "name": "graphql",
+        "image": "docker.io/hasura/graphql-engine:latest",
+        "environment": {
+          "HASURA_GRAPHQL_DATABASE_URL": "postgres://postgres:NewStarCTF1sG00d@postgres:5432/postgres",
+          "HASURA_GRAPHQL_ENABLE_CONSOLE": "true",
+          "HASURA_GRAPHQL_ENABLED_LOG_TYPES": "startup, http-log, webhook-log, websocket-log, query-log"
+        },
+        "depends_on": "postgres"
+      },
+      {
+        "image": "docker.io/openctf/newstar-2022:ezapi_web",
+        "exposes": [
+          {
+            "port": 80,
+            "type": "http"
+          }
+        ],
+        "depends_on": "graphql"
+      }
+    ],
+    "answer": "flag{4a902c8e-a8b5-ecfb-bee3-d6419865647c}",
     "difficulty": 1,
     "hints": ["https://zhuanlan.zhihu.com/p/40418866"],
     "extra": {
@@ -738,7 +764,7 @@
     "author": "烨",
     "attachments": [],
     "services": [],
-    "flag": null,
+    "answer": null,
     "difficulty": 1,
     "hints": ["https://www.openwall.com/php_mt_seed/"],
     "extra": {
@@ -754,7 +780,7 @@
     "author": "烨",
     "attachments": [],
     "services": [],
-    "flag": null,
+    "answer": null,
     "difficulty": 1,
     "hints": ["https://zhuanlan.zhihu.com/p/377676274"],
     "extra": {
@@ -770,7 +796,7 @@
     "author": "J1an",
     "attachments": [],
     "services": [],
-    "flag": "flag{Ju4t_m2ke_some_err0rs}",
+    "answer": "flag{Ju4t_m2ke_some_err0rs}",
     "difficulty": 1,
     "extra": {
       "knowledge": "报错注入"
@@ -785,10 +811,12 @@
     "author": "Coldwinds",
     "attachments": [],
     "services": [],
-    "flag": "flag{Ea2y_B1ockChain_Ch3ckin}",
+    "answer": "flag{Ea2y_B1ockChain_Ch3ckin}",
     "difficulty": 0,
+    "hidden": true,
     "extra": {
-      "knowledge": "智能合约交互"
+      "knowledge": "智能合约交互",
+      "hidden_reason": "本题暂时无法提供环境"
     }
   },
   {
@@ -800,11 +828,13 @@
     "author": "Coldwinds",
     "attachments": [],
     "services": [],
-    "flag": "flag{Wh4t_1s_th3_numb3r}",
+    "answer": "flag{Wh4t_1s_th3_numb3r}",
     "difficulty": 1,
     "hints": ["使用浏览器可以查看合约的交互历史，也许能看到 setnumber 函数的参数哦\n\nhttps://goerli.etherscan.io/"],
+    "hidden": true,
     "extra": {
-      "knowledge": "使用区块链浏览器和反编译工具"
+      "knowledge": "使用区块链浏览器和反编译工具",
+      "hidden_reason": "本题暂时无法提供环境"
     }
   },
   {
@@ -816,11 +846,13 @@
     "author": "Coldwinds",
     "attachments": [],
     "services": [],
-    "flag": "flag{Y0u_ar3_th3_ch00s3n_0n3}",
+    "answer": "flag{Y0u_ar3_th3_ch00s3n_0n3}",
     "difficulty": 1,
     "hints": ["只有特定尾号的地址才能与合约交互\n\nhttps://vanity-eth.tk/"],
+    "hidden": true,
     "extra": {
-      "knowledge": "特定钱包地址生成"
+      "knowledge": "特定钱包地址生成",
+      "hidden_reason": "本题暂时无法提供环境"
     }
   },
   {
@@ -834,7 +866,7 @@
       "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-3/keyExchange.zip"
     ],
     "services": [],
-    "flag": "flag{d1ff1e_h311m4n_is_4_p13c3_0f_c4k3}",
+    "answer": "flag{d1ff1e_h311m4n_is_4_p13c3_0f_c4k3}",
     "difficulty": 1,
     "extra": {
       "knowledge": "Diffie-Hellman"
@@ -851,7 +883,7 @@
       "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-3/onetimepad.zip"
     ],
     "services": [],
-    "flag": "flag{frequency_analysis_could_be_useful#A6DC1D643A29}",
+    "answer": "flag{frequency_analysis_could_be_useful#A6DC1D643A29}",
     "difficulty": 1,
     "extra": {
       "knowledge": "kasis 测试法+密钥移位枚举"
@@ -866,7 +898,7 @@
     "author": "Sias27",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-3/shamir.zip"],
     "services": [],
-    "flag": "flag{w0w_y0u_k0nw_sham1r_s3cret_5h4r1ng_4nd_1agrange_interpolation!!!}",
+    "answer": "flag{w0w_y0u_k0nw_sham1r_s3cret_5h4r1ng_4nd_1agrange_interpolation!!!}",
     "difficulty": 1,
     "extra": {
       "knowledge": "Shamir Secret Sharing"
@@ -881,7 +913,7 @@
     "author": "Sycamore",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-3/AES.zip"],
     "services": [],
-    "flag": "flag{7h7gi3nl-ald4ssf8-eajfwm7t-rujquhmg}",
+    "answer": "flag{7h7gi3nl-ald4ssf8-eajfwm7t-rujquhmg}",
     "difficulty": 2,
     "extra": {
       "knowledge": "随机数预测"
@@ -896,7 +928,7 @@
     "author": "烨",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-3/http.pcap"],
     "services": [],
-    "flag": "flag{4f33649d030c6778426971b54dd72ece}",
+    "answer": "flag{4f33649d030c6778426971b54dd72ece}",
     "difficulty": 0,
     "extra": {
       "knowledge": "HTTP 流量分析"
@@ -911,7 +943,7 @@
     "author": "qsdz",
     "attachments": [],
     "services": [],
-    "flag": null,
+    "answer": null,
     "difficulty": 1,
     "hints": [
       "https://blog.csdn.net/sinat_28442665/article/details/115523792",
@@ -932,7 +964,7 @@
     "author": "烨",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-3/webshell.pcap"],
     "services": [],
-    "flag": "flag{n3wst4r_www-data_Y0UAr3G00D}",
+    "answer": "flag{n3wst4r_www-data_Y0UAr3G00D}",
     "difficulty": 1,
     "extra": {
       "knowledge": "蚁剑流量分析"
@@ -947,7 +979,7 @@
     "author": "qsdz",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-3/YND31_1.zip"],
     "services": [],
-    "flag": "flag{I_r3ally_Want_tO_be_1I1I1}",
+    "answer": "flag{I_r3ally_Want_tO_be_1I1I1}",
     "difficulty": 1,
     "hints": [
       "一切内容都跟压缩包相关，除了压缩包还是压缩包",
@@ -969,7 +1001,7 @@
     "author": "Sycamore",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-3/image.zip"],
     "services": [],
-    "flag": "flag{easy_chaos_encrypt!!!_776e6d30}",
+    "answer": "flag{easy_chaos_encrypt!!!_776e6d30}",
     "difficulty": 2,
     "hints": [
       "CmltZyA9IEltYWdlLm9wZW4oJ2ZsYWcucG5nJykKdyxoPWltZy5zaXplCmZvciBpIGluIHJhbmdlKHcpOgogICAgZm9yIGogaW4gcmFuZ2UoaCk6CiAgICAociwgZywgYiwgYSkgPSBpbWcuZ2V0cGl4ZWwoKGksaikpCiAgICBwaWMuYXBwZW5kKHIpCiAgICBwaWMuYXBwZW5kKGcpCiAgICBwaWMuYXBwZW5kKGIpCg=="
@@ -987,7 +1019,7 @@
     "author": "Coldwinds",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-3/pwn"],
     "services": [],
-    "flag": null,
+    "answer": null,
     "difficulty": 1,
     "hints": ["程序在 cat file 前会小睡一会，如果能在这时 change filename 的话……"],
     "extra": {
@@ -1003,7 +1035,7 @@
     "author": "Nightu",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-3/ReadWrite.zip"],
     "services": [],
-    "flag": null,
+    "answer": null,
     "difficulty": 1,
     "hints": ["小朋友们，你们有过数组下标写过头被麻麻骂一下午的经历吗"],
     "extra": {
@@ -1019,7 +1051,7 @@
     "author": "woodwhale",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-3/sheep_a_flag"],
     "services": [],
-    "flag": null,
+    "answer": null,
     "difficulty": 1,
     "hints": ["迷宫 DFS、BFS、回溯，fmtstr_payload"],
     "extra": {
@@ -1035,7 +1067,7 @@
     "author": "Nightu",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-3/ret2csu1.zip"],
     "services": [],
-    "flag": null,
+    "answer": null,
     "difficulty": 2,
     "hints": ["execve 的三个参数是什么意思 QwQ，果然我还是看看文档比较好吧"],
     "extra": {
@@ -1053,7 +1085,7 @@
       "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-3/Sliders_Labyrinth.exe"
     ],
     "services": [],
-    "flag": "flag{f71516bdf07abd7bc0668db9d6352364}",
+    "answer": "flag{f71516bdf07abd7bc0668db9d6352364}",
     "difficulty": 1,
     "extra": {
       "knowledge": "迷宫题，多指令共用字节花指令"
@@ -1068,7 +1100,7 @@
     "author": "Gift1a",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-3/Zzzzz3333.exe"],
     "services": [],
-    "flag": "flag{Zzzz333_Is_Cool!!!}",
+    "answer": "flag{Zzzz333_Is_Cool!!!}",
     "difficulty": 1,
     "extra": {
       "knowledge": "Z3 的使用"
@@ -1085,7 +1117,7 @@
       "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-3/Annnnnggrr.exe"
     ],
     "services": [],
-    "flag": "flag{umm_I_can't_calc_1t_@t_all}",
+    "answer": "flag{umm_I_can't_calc_1t_@t_all}",
     "difficulty": 2,
     "extra": {
       "knowledge": "Angr 的使用，Z3 也行"
@@ -1100,7 +1132,7 @@
     "author": "Xunflash",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-3/EzTea.exe"],
     "services": [],
-    "flag": "flag{H0P3_U_L1k3_Th15_CUP_0f_TEa.}",
+    "answer": "flag{H0P3_U_L1k3_Th15_CUP_0f_TEa.}",
     "difficulty": 2,
     "extra": {
       "knowledge": "魔改 xxTea 加密，dword 与 byte"
@@ -1115,7 +1147,7 @@
     "author": "FallW1nd",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-3/funnyOTL_1"],
     "services": [],
-    "flag": "flag{OTL_n0w_u_know_STL}",
+    "answer": "flag{OTL_n0w_u_know_STL}",
     "difficulty": 2,
     "extra": {
       "knowledge": "asdasd"
@@ -1130,7 +1162,7 @@
     "author": "烨",
     "attachments": [],
     "services": [],
-    "flag": null,
+    "answer": null,
     "difficulty": 1,
     "extra": {
       "knowledge": "Python SSTI"
@@ -1145,7 +1177,7 @@
     "author": "烨",
     "attachments": [],
     "services": [],
-    "flag": null,
+    "answer": null,
     "difficulty": 1,
     "extra": {
       "knowledge": "文件包含 pearGetShell"
@@ -1153,14 +1185,14 @@
   },
   {
     "id": 72,
-    "name": "Maybe You Have To think More",
+    "name": "Maybe You Have To Think More",
     "description": "PHP 反序列化漏洞系列第二题。想啊想啊想不到，这可不是 SQL 注入哦～～～\n",
     "category": ["Week3", "Web"],
     "tags": ["简单"],
     "author": "J1an",
     "attachments": [],
     "services": [],
-    "flag": null,
+    "answer": null,
     "difficulty": 1,
     "hints": ["看看 Cookie ThinkPHP 5 框架反序列化 RCE"],
     "extra": {
@@ -1176,7 +1208,7 @@
     "author": "J1an",
     "attachments": [],
     "services": [],
-    "flag": "flag{Ju3t_use_mo2e_t2en_0ne_SQL}",
+    "answer": "flag{Ju3t_use_mo2e_t2en_0ne_SQL}",
     "difficulty": 1,
     "hints": ["堆叠注入，update 更改"],
     "extra": {
@@ -1192,10 +1224,12 @@
     "author": "Coldwinds",
     "attachments": [],
     "services": [],
-    "flag": "flag{Y0u_ar3_r0bbing_th3_bank}",
+    "answer": "flag{Y0u_ar3_r0bbing_th3_bank}",
     "difficulty": 2,
+    "hidden": true,
     "extra": {
-      "knowledge": "重入攻击"
+      "knowledge": "重入攻击",
+      "hidden_reason": "本题暂时无法提供环境"
     }
   },
   {
@@ -1207,11 +1241,13 @@
     "author": "Coldwinds",
     "attachments": [],
     "services": [],
-    "flag": "flag{1t_1s_a_pl3asant_c00p3rati0n}",
+    "answer": "flag{1t_1s_a_pl3asant_c00p3rati0n}",
     "difficulty": 2,
     "hints": ["有一种强制转账的方法……"],
+    "hidden": true,
     "extra": {
-      "knowledge": "自毁函数强制转账"
+      "knowledge": "自毁函数强制转账",
+      "hidden_reason": "本题暂时无法提供环境"
     }
   },
   {
@@ -1225,7 +1261,7 @@
       "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/LCG_Revenge.zip"
     ],
     "services": [],
-    "flag": "flag{try_some_linear_algebra_technique}",
+    "answer": "flag{try_some_linear_algebra_technique}",
     "difficulty": 1,
     "extra": {
       "knowledge": "三阶 LCG"
@@ -1240,7 +1276,7 @@
     "author": "Sias27",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/ywyyh.zip"],
     "services": [],
-    "flag": "flag{wow_wow_wow_you_solved_my_encryption}",
+    "answer": "flag{wow_wow_wow_you_solved_my_encryption}",
     "difficulty": 2,
     "extra": {
       "knowledge": "Shift+xor 加密"
@@ -1255,7 +1291,7 @@
     "author": "Sias27",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/dsgx.zip"],
     "services": [],
-    "flag": "flag{a1g3br4ic_re1at1on_i5_us3ful}",
+    "answer": "flag{a1g3br4ic_re1at1on_i5_us3ful}",
     "difficulty": 3,
     "hints": ["考虑一下 e1d1 = e2d2 (mod phi)"],
     "extra": {
@@ -1271,7 +1307,7 @@
     "author": "Coldwinds",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/QRcode.zip"],
     "services": [],
-    "flag": "flag{1_1ik3_p1aying_Min3craft}",
+    "answer": "flag{1_1ik3_p1aying_Min3craft}",
     "difficulty": 1,
     "hints": ["沙盒游戏存档"]
   },
@@ -1284,7 +1320,7 @@
     "author": "烨",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/Godzilla.pcap"],
     "services": [],
-    "flag": "flag{421eb7f1b8e4b3cf_Godzilla1sS000Int3rEstIng}",
+    "answer": "flag{421eb7f1b8e4b3cf_Godzilla1sS000Int3rEstIng}",
     "difficulty": 1,
     "extra": {
       "knowledge": "哥斯拉流量分析"
@@ -1299,7 +1335,7 @@
     "author": "Coldwinds",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/strange.zip"],
     "services": [],
-    "flag": "flag{PDF_1s_n0t_strang3}",
+    "answer": "flag{PDF_1s_n0t_strang3}",
     "difficulty": 1,
     "extra": {
       "knowledge": "PDF 隐写 + 文件头修改"
@@ -1316,7 +1352,7 @@
       "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/qsdzs_girlfriend_4.zip"
     ],
     "services": [],
-    "flag": "flag{Esol4ng_1s_es0}",
+    "answer": "flag{Esol4ng_1s_es0}",
     "difficulty": 1,
     "hints": [
       "我们进行决策的方法，比较好用的一个是排除法。首先我的女朋友给我留的纸条上写的肯定不是汉语，那是什么语言呢？`flag.txt` 里的肯定不是 C 语言，那是什么语言呢？"
@@ -1336,7 +1372,7 @@
       "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/yellow_pictrue.png"
     ],
     "services": [],
-    "flag": "flag{Yesec_deCid3s_t0_ch4nge_7he_fate_of_the_world_against_the_odds}",
+    "answer": "flag{Yesec_deCid3s_t0_ch4nge_7he_fate_of_the_world_against_the_odds}",
     "difficulty": 2,
     "hints": ["task.py"],
     "extra": {
@@ -1352,10 +1388,12 @@
     "author": "glzjin",
     "attachments": [],
     "services": [],
-    "flag": "DASCTF{63106242635507625084870339258364}",
+    "answer": "DASCTF{63106242635507625084870339258364}",
     "difficulty": 2,
+    "hidden": true,
     "extra": {
-      "knowledge": "信息收集，内网代理"
+      "knowledge": "信息收集，内网代理",
+      "hidden_reason": "本题暂时无法提供环境"
     }
   },
   {
@@ -1369,7 +1407,7 @@
       "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/IsThisHeap2.zip"
     ],
     "services": [],
-    "flag": null,
+    "answer": null,
     "difficulty": 0,
     "hints": ["_IO_FILE 利用，一次打 stdout leak libc，一次打 stdout 在 puts 时控制执行流"],
     "extra": {
@@ -1385,7 +1423,7 @@
     "author": "予柒",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/canary.zip"],
     "services": [],
-    "flag": null,
+    "answer": null,
     "difficulty": 1,
     "hints": ["格式化字符串可以泄露栈上内容和任一地址改"],
     "extra": {
@@ -1403,7 +1441,7 @@
       "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/IsThisHeap.zip"
     ],
     "services": [],
-    "flag": null,
+    "answer": null,
     "difficulty": 2,
     "hints": ["对下标的检测怎么只检测一半啊 =。=\n\n程序中有个指向自己的指针，可以完成任意读写 XD"],
     "extra": {
@@ -1419,7 +1457,7 @@
     "author": "Nightu",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/pwn"],
     "services": [],
-    "flag": null,
+    "answer": null,
     "difficulty": 2,
     "hints": ["非预期：检测范围并不完整 XD\n\n预期：好像只有读入的时候有限制哦，想办法运行时修改 shellcode 试试呢"],
     "extra": {
@@ -1435,7 +1473,7 @@
     "author": "Nightu",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/ret2csu2.zip"],
     "services": [],
-    "flag": null,
+    "answer": null,
     "difficulty": 2,
     "hints": ["首先要栈迁移啦，然后这个 mprotect 不用真的没关系嘛"],
     "extra": {
@@ -1451,7 +1489,7 @@
     "author": "Nightu",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/KMario.7z"],
     "services": [],
-    "flag": "flag{Mario_int0_th3_pip3_6ad0973b66df}",
+    "answer": "flag{Mario_int0_th3_pip3_6ad0973b66df}",
     "difficulty": 3,
     "hints": ["Github 原 PoC 哦，搜索一下 diff 文件也许就能知道是哪个 CVE 啦"],
     "extra": {
@@ -1469,7 +1507,7 @@
       "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/hard2decode.apk"
     ],
     "services": [],
-    "flag": "flag{QAQ_how2decode##pls_teAch_teVch_me!!}",
+    "answer": "flag{QAQ_how2decode##pls_teAch_teVch_me!!}",
     "difficulty": 2,
     "hints": ["动调 so 层，或者用 frida hook 解密字符串"],
     "extra": {
@@ -1485,7 +1523,7 @@
     "author": "Gift1a",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/Exception.exe"],
     "services": [],
-    "flag": "flag{44C3A7F112DA2BE728F451C5E2D09558}",
+    "answer": "flag{44C3A7F112DA2BE728F451C5E2D09558}",
     "difficulty": 2,
     "hints": ["异常处理机制，尝试一下动调时在汇编层跟进"],
     "extra": {
@@ -1501,7 +1539,7 @@
     "author": "Gift1a",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/Hash.exe"],
     "services": [],
-    "flag": "flag{Easy_Hash_And_Y0u_Solve_1t_Quickly!!}",
+    "answer": "flag{Easy_Hash_And_Y0u_Solve_1t_Quickly!!}",
     "difficulty": 2,
     "hints": ["Python hashlib、搜索使用到的 API"],
     "extra": {
@@ -1517,7 +1555,7 @@
     "author": "Lu1u",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/HelpMe.zip"],
     "services": [],
-    "flag": "flag{This_is_@_begin_about@hack}",
+    "answer": "flag{This_is_@_begin_about@hack}",
     "difficulty": 2,
     "extra": {
       "knowledge": "powershell 加密脚本 1excel 宏"
@@ -1532,7 +1570,7 @@
     "author": "voke",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/mpz.exe"],
     "services": [],
-    "flag": "flag{gmp_llllllllll111111111_int!}",
+    "answer": "flag{gmp_llllllllll111111111_int!}",
     "difficulty": 2,
     "hints": ["bindiff"],
     "extra": {
@@ -1548,7 +1586,7 @@
     "author": "烨",
     "attachments": [],
     "services": [],
-    "flag": null,
+    "answer": null,
     "difficulty": 1,
     "extra": {
       "knowledge": "Python SSTI"
@@ -1565,7 +1603,7 @@
       "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-4/Remo_0.0.1_SNAPSHOT.jar"
     ],
     "services": [],
-    "flag": null,
+    "answer": null,
     "difficulty": 1,
     "extra": {
       "knowledge": "Java 反序列化"
@@ -1580,7 +1618,7 @@
     "author": "JackPot",
     "attachments": [],
     "services": [],
-    "flag": null,
+    "answer": null,
     "difficulty": 1,
     "extra": {
       "knowledge": "RCE Bypass"
@@ -1595,7 +1633,7 @@
     "author": "烨",
     "attachments": [],
     "services": [],
-    "flag": null,
+    "answer": null,
     "difficulty": 1,
     "extra": {
       "knowledge": "Phar 反序列化"
@@ -1610,7 +1648,7 @@
     "author": "J1an",
     "attachments": [],
     "services": [],
-    "flag": "flag{We_0nly_have_2wo_choices}",
+    "answer": "flag{We_0nly_have_2wo_choices}",
     "difficulty": 2,
     "extra": {
       "knowledge": "布尔盲注，空格绕过"
@@ -1625,7 +1663,7 @@
     "author": "Sias27",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-5/flip_flop.zip"],
     "services": [],
-    "flag": "flag{filp_the_word!!!!!!!!}",
+    "answer": "flag{filp_the_word!!!!!!!!}",
     "difficulty": 2,
     "hints": ["AES 的 CBC 模式下 IV 是怎么作用的呢"],
     "extra": {
@@ -1643,7 +1681,7 @@
       "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-5/An_der_schonen_Elliptische_Kurve.zip"
     ],
     "services": [],
-    "flag": "flag{ell1ptic_curv3_i5_be4ut1ful_right#4DF17ABE}",
+    "answer": "flag{ell1ptic_curv3_i5_be4ut1ful_right#4DF17ABE}",
     "difficulty": 3,
     "hints": ["百度「椭圆曲线密码学」，请（"],
     "extra": {
@@ -1659,7 +1697,7 @@
     "author": "烨",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-5/task.txt"],
     "services": [],
-    "flag": "flag{S0B48yCA}",
+    "answer": "flag{S0B48yCA}",
     "difficulty": 1,
     "extra": {
       "knowledge": "字频分析"
@@ -1674,7 +1712,7 @@
     "author": "烨",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-5/sqli.pcap"],
     "services": [],
-    "flag": "flag{c84bb04a-8663-4ee2-9449-349f1ee83e11}",
+    "answer": "flag{c84bb04a-8663-4ee2-9449-349f1ee83e11}",
     "difficulty": 1,
     "extra": {
       "knowledge": "SQL 注入流量分析"
@@ -1691,7 +1729,7 @@
       "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-5/Yesec_no_drumsticks_5.zip"
     ],
     "services": [],
-    "flag": "flag{Yesec#1s#c@ibi}",
+    "answer": "flag{Yesec#1s#c@ibi}",
     "difficulty": 1,
     "hints": ["Git 是代码版本管理工具，我可以看看旧版本吗？欸？好像 Git 不止工作区……"],
     "extra": {
@@ -1709,7 +1747,7 @@
       "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-5/girlfriend5.rar"
     ],
     "services": [],
-    "flag": "flag{W3lc0me_tO_be_NewSt@rs!}",
+    "answer": "flag{W3lc0me_tO_be_NewSt@rs!}",
     "difficulty": 2,
     "hints": ["什么年代了还在用传统脚本啊？还不快去 Github 上找赛博脚本？"],
     "extra": {
@@ -1725,7 +1763,7 @@
     "author": "Sycamore",
     "attachments": [],
     "services": [],
-    "flag": "flag{how_about_ansi_and_running_pixel}",
+    "answer": "flag{how_about_ansi_and_running_pixel}",
     "difficulty": 3,
     "hints": ["ANSI 转义字符是什么捏？", "找不同而已"],
     "extra": {
@@ -1741,7 +1779,7 @@
     "author": "Coldwinds",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-5/strange2.zip"],
     "services": [],
-    "flag": "flag{It_1s_a_fak3_but_r3al_PDF}",
+    "answer": "flag{It_1s_a_fak3_but_r3al_PDF}",
     "difficulty": 3
   },
   {
@@ -1753,7 +1791,7 @@
     "author": "Nightu",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-5/Farewell.zip"],
     "services": [],
-    "flag": "flag{Monit0r_is_intended&thx_4_playing_my_chals}",
+    "answer": "flag{Monit0r_is_intended&thx_4_playing_my_chals}",
     "difficulty": 1,
     "hints": ["启动脚本有东西少了 =。="],
     "extra": {
@@ -1769,7 +1807,7 @@
     "author": "Nightu",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-5/leak.zip"],
     "services": [],
-    "flag": null,
+    "answer": null,
     "difficulty": 1,
     "hints": ["Stdout leak"],
     "extra": {
@@ -1785,7 +1823,7 @@
     "author": "Nightu",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-5/overflow.zip"],
     "services": [],
-    "flag": null,
+    "answer": null,
     "difficulty": 1,
     "hints": ["栈迁移后 Ret2csu"],
     "extra": {
@@ -1801,7 +1839,7 @@
     "author": "Nightu",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-5/cod3"],
     "services": [],
-    "flag": null,
+    "answer": null,
     "difficulty": 2,
     "hints": ["X32 ABI"],
     "extra": {
@@ -1817,7 +1855,7 @@
     "author": "Nightu",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-5/orw.zip"],
     "services": [],
-    "flag": null,
+    "answer": null,
     "difficulty": 2,
     "hints": ["exit 的俩 \"hook\" 的 rdi 是同一个地址"],
     "extra": {
@@ -1835,7 +1873,7 @@
       "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-5/attachment.exe"
     ],
     "services": [],
-    "flag": "flag{12573882-1CF1-EB5E-C965-035B1F263C38}",
+    "answer": "flag{12573882-1CF1-EB5E-C965-035B1F263C38}",
     "difficulty": 1,
     "extra": {
       "knowledge": "变表 Base64"
@@ -1852,7 +1890,7 @@
       "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-5/Petals_Level_Up"
     ],
     "services": [],
-    "flag": "flag{d5658c0b4c44d4672d76b563a8505a66}",
+    "answer": "flag{d5658c0b4c44d4672d76b563a8505a66}",
     "difficulty": 1,
     "extra": {
       "knowledge": "使用间接 + 相对寻址的 jmp r?x 花指令"
@@ -1867,7 +1905,7 @@
     "author": "Lu1u",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-5/task.ll"],
     "services": [],
-    "flag": "flag{Hacking_for_fun@reverser$!}",
+    "answer": "flag{Hacking_for_fun@reverser$!}",
     "difficulty": 2,
     "extra": {
       "knowledge": "llvm 中间代码，魔改 base 和 rc4"
@@ -1884,7 +1922,7 @@
       "https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-5/Virtual_Self_1"
     ],
     "services": [],
-    "flag": "flag{Will_you_see_the_light?}",
+    "answer": "flag{Will_you_see_the_light?}",
     "difficulty": 2,
     "extra": {
       "knowledge": "只有简单运算的 vm"
@@ -1899,7 +1937,7 @@
     "author": "Gift1a",
     "attachments": ["https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-5/easy_mix.exe"],
     "services": [],
-    "flag": "flag{RC4_and_SMC_is_interesting!}",
+    "answer": "flag{RC4_and_SMC_is_interesting!}",
     "difficulty": 3,
     "hints": ["https://www.anquanke.com/post/id/238645#h3-2"],
     "extra": {
@@ -1915,7 +1953,7 @@
     "author": "烨",
     "attachments": [],
     "services": [],
-    "flag": null,
+    "answer": null,
     "difficulty": 1,
     "extra": {
       "knowledge": "Python SSTI"
@@ -1930,7 +1968,7 @@
     "author": "J1an",
     "attachments": [],
     "services": [],
-    "flag": null,
+    "answer": null,
     "difficulty": 1,
     "extra": {
       "knowledge": "`.htaccess` 文件上传"
@@ -1945,7 +1983,7 @@
     "author": "烨",
     "attachments": [],
     "services": [],
-    "flag": null,
+    "answer": null,
     "difficulty": 1,
     "hints": ["SUID"],
     "extra": {
@@ -1961,7 +1999,7 @@
     "author": "烨",
     "attachments": [],
     "services": [],
-    "flag": null,
+    "answer": null,
     "difficulty": 1,
     "extra": {
       "knowledge": "CVE-2021-42013"
@@ -1976,7 +2014,7 @@
     "author": "J1an",
     "attachments": [],
     "services": [],
-    "flag": "flag{Ju2t_let_me_s1eep_f0r_a_whi1e}",
+    "answer": "flag{Ju2t_let_me_s1eep_f0r_a_whi1e}",
     "difficulty": 2,
     "extra": {
       "knowledge": "SQL 时间盲注"
